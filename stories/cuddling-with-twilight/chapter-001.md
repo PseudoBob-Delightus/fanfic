@@ -88,4 +88,5 @@ You look back to your bed to see Twilight, still sound asleep, wrapped up in you
 
 You look back at the animal in your bed, and back at Carl. He's desperately undressing. "Jesus fucking Christ, Carl."
 
-- [ ] Now all of FIMFiction knows you want to hug a small horse.
+### Author's Note
+Now all of FIMFiction knows you want to hug a small horse.

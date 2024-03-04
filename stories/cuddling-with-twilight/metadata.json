@@ -1,0 +1,34 @@
+{
+	"title": "Cuddling with Twilight",
+	"type": "story",
+    "shortdesc": "A story about Twilight making a Human cuddle."
+    "settings": ["mlpfim"],
+    "characters": ["twilight", "oc"],
+	"genres": ["comedy", "sliceoflife"],
+    "warnings": [],
+    "misctags": ["secondperson","human"],
+	"posts": [
+		{
+			"site": "fimfiction",
+			"url": "https://www.fimfiction.net/story/101632/cuddling-with-twilight",
+			"id": "101632"
+			"time": "2016-01-16T19:20:00−05:00"
+		},
+        {
+			"site": "ao3",
+			"url": "https://archiveofourown.org/works/13567140",
+			"id": "13567140"
+			"time": "2018-02-04T00:00:00−05:00"
+		}
+	],
+    "readings": [
+        {
+            "site": "youtube",
+            "url": "https://www.youtube.com/watch?v=KrNFUPbZQmo"
+            "id": "KrNFUPbZQmo"
+            "author-youtube": "StraightToThePointStudio"
+            "time": "2019-09-16T00:00:00−05:00"
+            "length-minutes": "12.5"
+        }
+    ]
+}

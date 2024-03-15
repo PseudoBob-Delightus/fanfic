@@ -1,0 +1,16 @@
+[
+    {
+        "release_hour": "0",
+        "release_minute": "1",
+        "chapter_id": "123456",
+        "description": "Test Long Description",
+        "short_description": "Test Short Description"
+    },
+    {
+        "release_hour": "0",
+        "release_minute": "2",
+        "chapter_id": "123456",
+        "description": "Test Long Description",
+        "short_description": "Test Short Description"
+    }
+]

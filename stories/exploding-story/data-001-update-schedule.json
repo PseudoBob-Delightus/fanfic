@@ -12,5 +12,16 @@
         "chapter_id": 123456,
         "description": "Test Long Description",
         "short_description": "Test Short Description"
+    },
+    {
+        "release_hour": 24,
+        "release_minute": 1,
+        "title": "This Story Will Explode... Any Second Now"
+    },
+    {
+        "release_hour": 25,
+        "release_minute": 0,
+        "title": "This Story Did Not Explode",
+        "status": "Complete"
     }
 ]

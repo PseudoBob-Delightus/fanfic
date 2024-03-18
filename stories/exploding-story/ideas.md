@@ -45,10 +45,12 @@
 - Don't want to rely too heavily on him.
 
 ## Chapter 14
-
+- Sea Swirl, just the pony to help us solve this problem!
+- No, we didn't just pick you because you were the closest pony at this exact moment!
 
 ## Chapter 13
-
+- Sunset Shimmer comes back to Equestria and asks if anyone else noticed the story is going to end in half a day
+- "Yeah, we noticed!"
 
 ## Chapter 12hr
 - Twilight has assembled the elements of harmony and they all try to stop the story from exploding. It doesn't work. Panic!
@@ -57,36 +59,51 @@
 - Twilight goes to Celestia and Luna, who don't know what's going on either and are even more panicked than she is. Canterlot may be on fire.
 
 ## Chapter 10
-- Two characters, believing the world is about to end, confess their love for each other.
+- Twilight gives in to despair. Her friends console her.
 
 ## Chapter 9
+- Two characters, believing the world is about to end, confess their love for each other.
+
+## Chapter 8
+- Inner monologue of each pet?
+  - Angel
+  - Gummy
+  - Winona
+  - Tank
+  - Opalescence
+  - Spike
+    - "Hey, shouldn't this be about Owlowysius?"
+
+## Chapter 7
 - Entire first chapter of a human in equestria story (anon?) where, after a series of unfortunate and grizzly events, the human arrives in the everfree forest and sees that the story is about to explode in a few hours.
 - This causes him to give up hope and just let it happen.
 - No other appearances in the story.
 
-## Chapter 8
-
-
-## Chapter 7
-
-
 ## Chapter 6
-
+- Hard-boiled detective story parody.
+- The narrator is self-aware that this is the sixth chapter and that the story is going to end soon.
+- Still, they investigate a murder. 
+- More spearmint smoking.
 
 ## Chapter 5
-
+- Grimace Shake chapter
+- 150 words
+- Luna is alive???
 
 ## Chapter 4
-
+- Diamond Dogs chapter where they don't believe those silly ponies, but still plan to make the most of their day (just in case)
 
 ## Chapter 3
-
+- Chrysalis rejoices that they have thrown Equestria into chaos. Though she doesn't recall doing anything in particular to cause it, surely *one* of her dastardly schemes did them in. Somehow.
 
 ## Chapter 2
-
+- Cheerilee arrives at the schoolhouse and wonders if it's really worth working on her lesson plan for today, considering the world is supposed to end.
+- Well, all the more reason!
 
 ## Chapter 1
-
+- Minutes to midnight chapter (not literally, since it'll be morning)
+- Characters are realizing that it's close to the end, and decide to gather round so they can spend their final moments together.
+- Heartwarming bittersweet chapter! Hopefully.
 
 ## Chapter 0hr
 - Twilight sees a ball of fire rise over Ponyville! Oh no, it's happening!!!

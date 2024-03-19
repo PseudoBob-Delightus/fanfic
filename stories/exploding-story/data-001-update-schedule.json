@@ -177,7 +177,17 @@
     {
         "release_hour": 24,
         "release_minute": 1,
-        "title": "This Story Will Explode... Any Second Now"
+        "title": "This Story Will Explode Now"
+    },
+    {
+        "release_hour": 24,
+        "release_minute": 6,
+        "title": "This Story Will Explode... Now?"
+    },
+    {
+        "release_hour": 24,
+        "release_minute": 12,
+        "title": "This Story Will Explode... Any Minute Now"
     },
     {
         "release_hour": 25,

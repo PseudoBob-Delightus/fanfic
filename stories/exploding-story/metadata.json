@@ -2,9 +2,9 @@
 	"title": "This Story Will Explode in 24 Hours",
 	"type": "story",
     "shortdesc": ""
-    "settings": ["mlpfim"],
-    "characters": [],
-	"genres": [],
+    "settings": ["mlpfim", "mlpeqg"],
+    "characters": ["twilight","main6","other"],
+	"genres": ["comedy","mystery","random"],
     "warnings": [],
     "misctags": [],
 	"posts": [

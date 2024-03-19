@@ -1,17 +1,178 @@
 [
     {
         "release_hour": 0,
-        "release_minute": 1,
-        "chapter_id": 123456,
-        "description": "Test Long Description",
-        "short_description": "Test Short Description"
+        "release_minute": 0,
+        "chapter_id": 1739392,
+        "description": "TODO",
+        "short_description": "TODO"
     },
     {
-        "release_hour": 0,
-        "release_minute": 2,
-        "chapter_id": 123456,
-        "description": "Test Long Description",
-        "short_description": "Test Short Description"
+        "release_hour": 1,
+        "release_minute": 0,
+        "chapter_id": 1739393,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 2,
+        "release_minute": 0,
+        "chapter_id": 1739394,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 3,
+        "release_minute": 0,
+        "chapter_id": 1739395,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 4,
+        "release_minute": 0,
+        "chapter_id": 1739396,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 5,
+        "release_minute": 0,
+        "chapter_id": 1739397,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 6,
+        "release_minute": 0,
+        "chapter_id": 1739398,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 7,
+        "release_minute": 0,
+        "chapter_id": 1739399,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 8,
+        "release_minute": 0,
+        "chapter_id": 1739400,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 9,
+        "release_minute": 0,
+        "chapter_id": 1739401,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 10,
+        "release_minute": 0,
+        "chapter_id": 1739402,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 11,
+        "release_minute": 0,
+        "chapter_id": 1739403,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 12,
+        "release_minute": 0,
+        "chapter_id": 1739404,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 13,
+        "release_minute": 0,
+        "chapter_id": 1739405,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 14,
+        "release_minute": 0,
+        "chapter_id": 1739406,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 15,
+        "release_minute": 0,
+        "chapter_id": 1739407,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 16,
+        "release_minute": 0,
+        "chapter_id": 1739408,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 17,
+        "release_minute": 0,
+        "chapter_id": 1739409,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 18,
+        "release_minute": 0,
+        "chapter_id": 1739410,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 19,
+        "release_minute": 0,
+        "chapter_id": 1739411,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 20,
+        "release_minute": 0,
+        "chapter_id": 1739412,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 21,
+        "release_minute": 0,
+        "chapter_id": 1739413,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 22,
+        "release_minute": 0,
+        "chapter_id": 1739414,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 23,
+        "release_minute": 0,
+        "chapter_id": 1739415,
+        "description": "TODO",
+        "short_description": "TODO"
+    },
+    {
+        "release_hour": 24,
+        "release_minute": 0,
+        "chapter_id": 1739417,
+        "description": "TODO",
+        "short_description": "TODO"
     },
     {
         "release_hour": 24,
@@ -21,6 +182,9 @@
     {
         "release_hour": 25,
         "release_minute": 0,
+        "chapter_id": 1739418,
+        "description": "TODO",
+        "short_description": "TODO",
         "title": "This Story Did Not Explode",
         "status": "Complete"
     }

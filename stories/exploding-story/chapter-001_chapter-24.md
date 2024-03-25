@@ -4,7 +4,7 @@ She wasn't running a fever, and she wasn't nauseous. Her throat didn't hurt when
 
 Maybe it was the cloying memory of a fading dream. Or maybe it was nothing at all. Twilight shrugged and decided it was probably nothing, or probably the dream thing, which was pretty close to nothing anyway.
 
-So she went about her normal pony business, like brushing her mane. It felt good to brush her mane for the last time. After that, she headed downstairs to get breakfast ready-
+So she went about her normal pony business, like brushing her mane. First at the ends, then down to the roots, she untangled her bed-head and made it bounce and shine again. It felt good to brush her mane for the last time. After that, she headed downstairs to get breakfast ready-
 
 Wait.
 

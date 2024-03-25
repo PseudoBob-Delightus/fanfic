@@ -23,3 +23,17 @@ Spike yawned and plodded past her. "Hey Twilight," he groaned. "You gonna use th
 So was Twilight. But she decided not to dwell on it too much. All that nothing was still bothering her, making her feel weird and think strange things, clearly. She needed to clear her mind. So she went downstairs to make breakfast.
 
 There was nothing in the world quite like the smell of fresh haycakes. And there was something about the way the batter lightly sizzled on the pan at first, before firming up; and the way it bubbled slowly as it cooked. She waited and watched the popping bubbles fill back in with flowing batter, but slower every time, until finally the bubbles would stay open. Only then, and exactly then, was it ready to flip.
+
+The bottom of the haycake was a perfect golden brown. Oh, she could practically taste it already! While more cakes cooked, she started to get the plates and cutlery out, then the butter and jam and maple syrup. The haycakes were beginning to stack, and no stack of haycakes would be complete without all these things.
+
+By the time she heard the water turn off upstairs, breakfast was done. She took her first haycake and smeared it with butter, cut it into a grid, drizzled it with syrup, and stabbed a piece with a fork before levitating it into her mouth. 
+
+It was...
+
+Delicious! 
+
+Heavenly!
+
+Considering this was the last time she'd ever eat breakfast, she would accept nothing less than-
+
+The fork clattered onto the plate and Twilight walked out of the kitchen. Breakfast was over. She needed some steps. Some sunlight. Some fresh air. Anything to get this damned idea out of her head.

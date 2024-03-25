@@ -19,3 +19,7 @@ Spike yawned and plodded past her. "Hey Twilight," he groaned. "You gonna use th
 "Oh," Twilight said. "No, I was, I was going downstairs. Go ahead."
 
 "Alrighty," Spike said, clearly a little confused over how Twilight was acting.
+
+So was Twilight. But she decided not to dwell on it too much. All that nothing was still bothering her, making her feel weird and think strange things, clearly. She needed to clear her mind. So she went downstairs to make breakfast.
+
+There was nothing in the world quite like the smell of fresh haycakes. And there was something about the way the batter lightly sizzled on the pan at first, before firming up; and the way it bubbled slowly as it cooked. She waited and watched the popping bubbles fill back in with flowing batter, but slower every time, until finally the bubbles would stay open. Only then, and exactly then, was it ready to flip.

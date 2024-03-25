@@ -37,3 +37,11 @@ Heavenly!
 Considering this was the last time she'd ever eat breakfast, she would accept nothing less than-
 
 The fork clattered onto the plate and Twilight walked out of the kitchen. Breakfast was over. She needed some steps. Some sunlight. Some fresh air. Anything to get this damned idea out of her head.
+
+She just walked outside. There was no need for anything complicated. Just walk around Ponyville and see if there's anything to take her mind off things. 
+
+Unfortunately, it was a normal, peaceful morning around town. Stores were still closed, the markets were still being set up, and what few ponies who were out at this hour were still too sleepy to have any problems she could distract herself with.
+
+So she took in the scenery.
+
+Under a blue-green sky, nature was most active. Black-capped chickadees and red-breasted robins and yellow warblers and various other birds named for combinations of colours and funny words were flitting about between the trees, skimming ponds and streams, and singing their hearts out.

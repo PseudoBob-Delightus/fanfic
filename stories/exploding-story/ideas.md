@@ -32,6 +32,7 @@
 
 ## Chapter 17
 - CMC?
+- Hiding in the clubhouse because they don't want to look at the sky and end up costing the author more commissions? (Joke about the commissioned chapter artwork obv)
 
 ## Chapter 16
 - Ponyville events?

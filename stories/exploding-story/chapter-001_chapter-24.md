@@ -12,6 +12,8 @@ Wait.
 
 Why did she think that?
 
+What did that mean?
+
 Spike yawned and plodded past her. "Hey Twilight," he groaned. "You gonna use the shower?"
 
 "Oh," Twilight said. "No, I was, I was going downstairs. Go ahead."

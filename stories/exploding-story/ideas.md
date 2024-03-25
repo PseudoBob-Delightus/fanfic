@@ -13,6 +13,7 @@
 
 ## Chapter 22
 - Pinkie Pie
+- Twilight wonders if Pinkie Pie had anything to do with this - maybe makes a callback to that time she turned the story invisible
 - Maybe Pinkie Pie warns her against overreacting to a predicted disaster, lest she prove it correct.
 - This calm and rational response just freaks her out even more!
 

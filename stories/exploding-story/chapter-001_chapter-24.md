@@ -56,6 +56,20 @@ A few heads turned. "Huh?" asked a nearby stallion she didn't recognize. "What's
 
 "Th-this!" she answered, pointing towards the sun. Then she gestured at herself. "Me!" Then all around. "Everything! It's all going to end, and I don't know why!"
 
-The stallion just looked at the pony next to him. He repeated, "Huh?"
+The stallion just looked at a pony next to him. He repeated, "Huh?"
 
-The way they looked at Twilight - they looked at her like she was insane. Well, maybe she was! It was only a matter of time, right? Things like this were always happening. She never should have gotten out of bed!
+The way they looked at Twilight - they looked at her like she was insane. Well, maybe she was! It was only a matter of time, right? Things like this were always happening. And ponies were always judging her for overreacting. Sure, they never came out and said anything, but she could tell! She should have just stayed in bed!
+
+She made tracks, leaving a pony-shaped cloud of dust behind her, and ended up back at the library so quickly that she nearly bowled Spike over on his way out the door.
+
+"Twilight!" he gasped. "What's wrong?"
+
+"Me," she said, falling to her haunches. "I feel like the world is ending, and I have no idea why..."
+
+"Hmmm," Spike hummed. Then he pointed up at the sky. "Maybe it has something to do with that?"
+
+Twilight looked up.
+
+\[image\]
+
+"Well, horseapples."

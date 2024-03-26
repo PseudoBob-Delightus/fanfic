@@ -44,4 +44,18 @@ Unfortunately, it was a normal, peaceful morning around town. Stores were still 
 
 So she took in the scenery.
 
-Under a blue-green sky, nature was most active. Black-capped chickadees and red-breasted robins and yellow warblers and various other birds named for combinations of colours and funny words were flitting about between the trees, skimming ponds and streams, and singing their hearts out.
+Under a blue-green sky, nature was most active. Yellow warblers and red-breasted robins and black-capped chickadees and various other birds named for combinations of colours and funny words were flitting about between the trees, skimming ponds and streams, and singing their hearts out. They seemed unperturbed by the chilly Spring air, the hardness of the ground, or the heady, heart-pounding sense of impending doom.
+
+It seemed unfair. Nothing was different, and yet *everything* was different. The bustle of town life, the rustle of budding trees, and the crunch of yellow grass beneath her hooves made Twilight feel homesick for a home she hadn't yet lost. 
+
+Even the sunrise, now, with its warm and radiant light scattered through the low horizon, felt insufficient when she thought about how this was the last one she'd ever see.
+
+Her hooves found the sides of her head, and she screamed, "AAAHHH!!!"
+
+A few heads turned. "Huh?" asked a nearby stallion she didn't recognize. "What's wrong?"
+
+"Th-this!" she answered, pointing towards the sun. Then she gestured at herself. "Me!" Then all around. "Everything! It's all going to end, and I don't know why!"
+
+The stallion just looked at the pony next to him. He repeated, "Huh?"
+
+The way they looked at Twilight - they looked at her like she was insane. Well, maybe she was! It was only a matter of time, right? Things like this were always happening. She never should have gotten out of bed!

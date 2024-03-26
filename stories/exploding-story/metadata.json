@@ -12,6 +12,11 @@
             "id": 1,
             "title": "Chapter 24",
             "file": "stories/exploding-story/chapter-001_chapter-24"
+        },
+        {
+            "id": 2,
+            "title": "Chapter 23",
+            "file": "stories/exploding-story/chapter-002_chapter-23"
         }
     ]
 	"posts": [

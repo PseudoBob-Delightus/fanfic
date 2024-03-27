@@ -22,7 +22,7 @@
 - Twilight, Spike, and Pinkie Pie visit the Apple farm
 - Applejack: "Are you just gatherin' everypony together for an adventure like you always do?"
 - Twilight: "Wait, I always do that?"
-- Applejack: "Yeah, sugarcube. You do. (beat) Well, let's go, then."
+- Applejack: "Yeah, sugar cube. You do. (beat) Well, let's go, then."
 
 ## Chapter 20
 - Rainbow Dash

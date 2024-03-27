@@ -1,3 +1,5 @@
+## General
+- Running gag that Spike has more friends than Twilight
 ## Chapter ~~1~~ 24hr
 - Twilight discovers the story is going to explode in 24 hours
 - Twilight wakes up and feels things are *off*. She brushes her hair and the story narrates this as "I brushed my hair for the last time". Then she thinks, "why did I think that?"

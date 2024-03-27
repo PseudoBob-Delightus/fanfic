@@ -35,6 +35,10 @@
 
 ## Chapter 19
 - Fluttershy
+- Fluttershy refuses to leave the cottage for fear of the story exploding
+- The gang has to push her out
+- She's confusingly strong when her motivation is "hide"
+- Recruiting Fluttershy for world-at-stake missions is still a Problem
 
 ## Chapter 18
 - Rarity

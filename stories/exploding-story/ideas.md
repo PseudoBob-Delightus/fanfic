@@ -26,6 +26,10 @@
 
 ## Chapter 20
 - Rainbow Dash
+- The gang finds Rainbow Dash, who hadn't noticed the giant title until just now
+- "Oh, this thing? No problem!"
+- She zooms towards it and ends up splatting against it like a bug on a windshield
+- "Ow."
 
 ## Chapter 19
 - Fluttershy

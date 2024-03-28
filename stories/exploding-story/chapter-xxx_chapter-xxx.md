@@ -48,13 +48,13 @@ It ticks down another minute as we look at it; I reflexively hold her tighter.
 
 Rarity nuzzles her head to my chest. "If this is our last day together, I'm at least glad I am about to spend it with you."
 
-I nuzzles the top of her head. "Me too." I kiss her head.
+I nuzzle the top of her head. "Me too." I kiss her head.
 
 We sit there in silence for a while, just enjoying each others presence.
 
 I whisper in her ear, "I love you."
 
-She whisper back, "I love you too," before kissing my chest.
+She whispers back, "I love you too," before kissing my chest.
 
 "Do you think Twilight will be able to figure out how to stop it?"
 

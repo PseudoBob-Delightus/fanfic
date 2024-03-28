@@ -66,12 +66,11 @@
 - Twilight has assembled the elements of harmony and they all try to stop the story from exploding. It doesn't work. Panic!
 
 ## Chapter 14
-- Ponyville events?
-- Holiday?
-- Wedding?
 - Funeral?
-  - Maybe Twilight says the funeral isn't important because everyone is going to die soon
-  - They kick her out, obviously
+- A funeral ceremony gets in Twilight's way as she sulks about the elements not working
+- Maybe Twilight says the funeral isn't important because everything is going to die soon
+- They don't appreciate it, obviously
+- Twilight's friends can see she's rude
 
 ## Chapter 13
 - Discord?

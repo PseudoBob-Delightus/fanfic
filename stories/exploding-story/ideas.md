@@ -58,6 +58,13 @@
 - Hiding in the clubhouse because they don't want to look at the sky and end up costing the author more commissions? (Joke about the commissioned chapter artwork obv)
 
 ## Chapter 16
+- Sunset Shimmer comes back to Equestria and asks if anyone else noticed the story is going to end in half a day
+- "Yeah, we noticed!"
+
+## Chapter 15hr
+- Twilight has assembled the elements of harmony and they all try to stop the story from exploding. It doesn't work. Panic!
+
+## Chapter 14
 - Ponyville events?
 - Holiday?
 - Wedding?
@@ -65,24 +72,17 @@
   - Maybe Twilight says the funeral isn't important because everyone is going to die soon
   - They kick her out, obviously
 
-## Chapter 15
+## Chapter 13
 - Discord?
 - Don't want to rely too heavily on him.
 
-## Chapter 14
+## Chapter 12
+- Twilight goes to Celestia and Luna, who don't know what's going on either and are even more panicked than she is. Canterlot may be on fire.
+
+## Chapter 11
 - Sea Swirl, just the pony to help us solve this problem!
 - No, we didn't just pick you because you were the closest pony at this exact moment!
 - She's in the story tags so she must be important
-
-## Chapter 13
-- Sunset Shimmer comes back to Equestria and asks if anyone else noticed the story is going to end in half a day
-- "Yeah, we noticed!"
-
-## Chapter 12hr
-- Twilight has assembled the elements of harmony and they all try to stop the story from exploding. It doesn't work. Panic!
-
-## Chapter 11
-- Twilight goes to Celestia and Luna, who don't know what's going on either and are even more panicked than she is. Canterlot may be on fire.
 
 ## Chapter 10
 - Twilight gives in to despair. Her friends console her.

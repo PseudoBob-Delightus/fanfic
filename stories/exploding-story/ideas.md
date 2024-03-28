@@ -60,6 +60,7 @@
 ## Chapter 16
 - Sunset Shimmer comes back to Equestria and asks if anyone else noticed the story is going to end in half a day
 - "Yeah, we noticed!"
+- Maybe it can be a chatfic.
 
 ## Chapter 15hr
 - Twilight has assembled the elements of harmony and they all try to stop the story from exploding. It doesn't work. Panic!
@@ -75,9 +76,14 @@
 ## Chapter 13
 - Discord?
 - Don't want to rely too heavily on him.
+- The gang asks Discord for help
+- He says he would, but he was curious about how non-existence might feel, so he'd rather just let it come to pass
+- Not even Fluttershy can convince him
 
 ## Chapter 12
+- It's officially night, but the moon fails to rise
 - Twilight goes to Celestia and Luna, who don't know what's going on either and are even more panicked than she is. Canterlot may be on fire.
+- Running out of options
 
 ## Chapter 11
 - Sea Swirl, just the pony to help us solve this problem!

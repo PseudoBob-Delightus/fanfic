@@ -43,6 +43,15 @@
 ## Chapter 18
 - Rarity
 - ~~God I hate Rarity~~
+- Rarity has decided that what she doesn't see can't hurt her
+- She will help Twilight with her little mission or whatever-it-is, but she shan't be looking up. Certainly not.
+- (Relatively painless recruitment)
+- "Say, have any of you seen Sweetie Belle?"
+- AJ: "Come to think of it, I haven't seen Apple Bloom recently neither."
+- Everyone looks at Rainbow Dash
+- RD: "What?"
+- Other: "Have you seen Scootaloo recently?"
+- RD: "Who's Scootaloo?"
 
 ## Chapter 17
 - CMC?

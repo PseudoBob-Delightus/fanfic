@@ -1,8 +1,10 @@
 # Pinkie Pie
 
-Twilight bursts through Pinkie's bedroom door, and looks around the room. "Pinkie, are you here?"
+Twilight knocks on Pinkie's bedroom door. The door opens.
 
-A rustles comes from one of Pinkie's cabinets, before moments later Pinkie springs out of it doing cartwheels.
+Twilight enters. "Pinkie, are you here?"
+
+A rustle comes from one of Pinkie's cabinets, before moments later Pinkie springs out of it doing cartwheels.
 
 Pinkie stops just before hitting Twilight, her mane springing forward, booping Twilight.
 
@@ -22,7 +24,7 @@ Pinkie stops just before hitting Twilight, her mane springing forward, booping T
 
 Pinkie wasn't listening, she was already jumping to try and touch the title.
 
-"Pinkie?"
+"Pinkie!"
 
 After another moment of hopelessly trying to touch it, Pinkie gives up. "Yes, Twilight?"
 
@@ -32,7 +34,7 @@ After another moment of hopelessly trying to touch it, Pinkie gives up. "Yes, Tw
 
 "Why do you have confetti for exploding stories?"
 
-Pinkie lifted out a confetti container, marked on the side in bubbly font: Exploding Story Confetti. "Never ask why dear Twilight, but why not."
+Pinkie lifts out a confetti container, marked on the side in bubbly font: Exploding Story Confetti. "Never ask why dear Twilight, but why not."
 
 "Okay, so, you're ready?"
 
@@ -42,6 +44,6 @@ Pinkie lifted out a confetti container, marked on the side in bubbly font: Explo
 
 "An exploding story sounds fun! I can't wait to see what happens."
 
-"Are you ready now?"
+"Okay, let's go, Pinkie."
 
-Pinkie nodded then Twilight started out the door. Pinkie followed behind, bouncing bubbly with a smile.
+Pinkie nods then Twilight started out the door. Pinkie follows behind, bouncing bubbly with a smile.

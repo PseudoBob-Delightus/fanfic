@@ -63,6 +63,7 @@
 ## Chapter 14
 - Sea Swirl, just the pony to help us solve this problem!
 - No, we didn't just pick you because you were the closest pony at this exact moment!
+- She's in the story tags so she must be important
 
 ## Chapter 13
 - Sunset Shimmer comes back to Equestria and asks if anyone else noticed the story is going to end in half a day

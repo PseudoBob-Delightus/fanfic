@@ -1,12 +1,12 @@
 # Pinkie Pie
 
-Twilight knocks on Pinkie's bedroom door. The door opens.
+Twilight knocked on Pinkie's bedroom door and the door opens.
 
-Twilight enters. "Pinkie, are you here?"
+Twilight entered. "Pinkie, are you here?"
 
-A rustle comes from one of Pinkie's cabinets, before moments later Pinkie springs out of it doing cartwheels.
+A rustle came from one of Pinkie's cabinets, before moments later Pinkie sprung out of it doing cartwheels.
 
-Pinkie stops just before hitting Twilight, her mane springing forward, booping Twilight.
+Pinkie stopped just before hitting Twilight, her mane springing forward, booping Twilight.
 
 "Hi, Twilight, what's up?"
 
@@ -14,9 +14,9 @@ Pinkie stops just before hitting Twilight, her mane springing forward, booping T
 
 \[image\]
 
-"Oh, no, I don't know anything, but I wonder what happens when a story explodes!"
+"Oh," Pinkie said in wonder, "I wonder what happens when a story explodes!"
 
-"You really didn't have anything to do with this?"
+"So, you didn't have anything to do with this?"
 
 "No, do you think I could touch it if I jump high enough?"
 
@@ -26,7 +26,7 @@ Pinkie wasn't listening, she was already jumping to try and touch the title.
 
 "Pinkie!"
 
-After another moment of hopelessly trying to touch it, Pinkie gives up. "Yes, Twilight?"
+After another moment of hopelessly trying to touch it, Pinkie gave up. She Noticed Twilight was still there and said, "Twilight? What are you doing here still?"
 
 "We need to go and figure this out."
 
@@ -34,16 +34,12 @@ After another moment of hopelessly trying to touch it, Pinkie gives up. "Yes, Tw
 
 "Why do you have confetti for exploding stories?"
 
-Pinkie lifts out a confetti container, marked on the side in bubbly font: Exploding Story Confetti. "Never ask why dear Twilight, but why not."
+Pinkie lifts out a confetti container, marked on the side in bubbly font: Exploding Story Confetti. "Never ask why Twilight, ask why not."
 
 "Okay, so, you're ready?"
 
-"Are you sure this isn't another one of those self-fulfilling prophecies? You're really good at those!"
-
-"Yes, I'm sure. How can you be so calm about this? Aren't you worried at all?"
-
-"An exploding story sounds fun! I can't wait to see what happens."
+"Yes, an exploding story sounds fun! I can't wait to see what happens."
 
 "Okay, let's go, Pinkie."
 
-Pinkie nods then Twilight started out the door. Pinkie follows behind, bouncing bubbly with a smile.
+Pinkie nods then Twilight started out the door. Pinkie followed behind, bouncing bubbly with a smile.

@@ -8,6 +8,8 @@ Pinkie Pie explained: "This is the part where we use our flashy magic powers to 
 
 "Yes." Twilight took a deep breath. "Let's end this."
 
-In a flash of purple, her eyes lit up and she was lifted into the air in a sharp glow. The same happened to Pinkie Pie, Applejack, Rainbow Dash, Fluttershy, and Rarity, in order of narrative importance. They didn't possess the elemental trinkets - they didn't need them. Rather, the symbols materialized on their barrels, and emanated energies that resonated and harmonized with each other until they were of unstoppable magnitude. A great beam of chromatic light shot out of them and arced upwards before bending, curving, plunging towards the abominable title whence this chaos erupted.
+In a flash of purple, her eyes lit up and she was lifted into the air in a sharp glow. The same happened to Pinkie Pie, Applejack, Rainbow Dash, Fluttershy, and Rarity, in order of narrative importance. They didn't possess the elemental trinkets - they didn't need them. Rather, the symbols materialized on their barrels, and emanated energies that resonated and harmonized with each other until they were of unstoppable magnitude. A great beam of chromatic light shot out of them and arced upwards before bending, curving, *plunging* towards the abominable title whence this chaos erupted.
 
-It bounced off and zapped an innocent bystander, who emitted a deafening scream, "Yeowch!" before prompty dying.
+For a moment the title warped on impact, as if was about to shatter. But then the beam of light bounced off and zapped an innocent bystander, who emitted a deafening scream, "Yeowch!" before prompty dying.
+
+"Well," Twilight said, "... horseapples."

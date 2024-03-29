@@ -2,11 +2,11 @@
 
 I am about to knock on Rarity's door when it opens.
 
-"Oh, Rainbow Dash, just the pony I was coming to find. Would you like to come in?"
+"Oh, Rainbow Dash, just the pony I wanted to see. Would you like to come in?"
 
 "Sure, I had something I needed to talk about."
 
-"I also had something I wanted to talk about."
+"I as well."
 
 Rarity leads them over to her couch, where they sit down.
 
@@ -18,7 +18,7 @@ Rarity leads them over to her couch, where they sit down.
 
 "That's kind of why I'm here, too."
 
-"I hope Twilight can figure it out, I wanted to spend more time with you…"
+"I wanted to spend more time with you…"
 
 I hug her. "Me too."
 
@@ -42,9 +42,9 @@ Both our eyes start watering, but neither of us try to hide them.
 
 We break the kiss and hold each other tight.
 
-I say, "We have to defeat that title now, for you, for us."
+As I hold her, I whisper, "I've wanted to do this for so long…" My tears continue.
 
-Rarity nods, simultaneously nuzzling my cheek. "We must do something, darling."
+"I have too," Rarity whispers back.
 
 As we let go of the hug, I kiss her cheek, causing her blush to intensify.
 
@@ -73,3 +73,9 @@ We sit there in silence for a while, just enjoying each others presence.
 I whisper in her ear, "I love you."
 
 She whispers back, "I love you too," before kissing my chest.
+
+My voice weakens. "Do you think Twilight will be able to figure out how to stop it?"
+
+"I sure hope so."
+
+"Me too, Rarity. Me too."

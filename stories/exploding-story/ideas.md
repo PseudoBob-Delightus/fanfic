@@ -104,6 +104,7 @@
   - Opalescence
   - Spike
     - "Hey, shouldn't this be about Owlowysius?"
+    - Will he still be in Canterlot? Or a different city?
 
 ## Chapter 7
 - Entire first chapter of a human in equestria story (anon?) where, after a series of unfortunate and grizzly events, the human arrives in the everfree forest and sees that the story is about to explode in a few hours.

@@ -62,6 +62,11 @@
             "id": 12,
             "title": "Chapter 13",
             "file": "stories/exploding-story/chapter-012_chapter-13"
+        },
+        {
+            "id": 13,
+            "title": "Chapter 12",
+            "file": "stories/exploding-story/chapter-013_chapter-12"
         }
     ]
 	"posts": [

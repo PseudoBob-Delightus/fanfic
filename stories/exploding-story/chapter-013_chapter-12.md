@@ -56,7 +56,9 @@ Celestia pointed up. "Look!"
 
 "Don't tell them we were here!" one of them called out after her.
 
-She managed to unset her jaw by the time she returned to the gardens, where the rest of the gang (not including Spike) was playing Euchre with the royal guards. She asked, "Where's Spike?" but was only answered by shrugs. "Whatever. Let's get out of here."
+"DO YOUR FUCKING JOBS AND I MIGHT CONSIDER IT!"
+
+As she stomped out of the palace, there seemed to be less and less light coming through the windows. She managed to unset her jaw by the time she returned to the gardens, where the rest of the gang (not including Spike) was playing Euchre with the royal guards under a night sky. She asked, "Where's Spike?" but was only answered by shrugs. "Whatever. Let's get out of here."
 
 "Hey, we're six up!" Rainbow Dash objected. "We can't just stop the game now!"
 
@@ -64,9 +66,9 @@ She managed to unset her jaw by the time she returned to the gardens, where the 
 
 "Augh!" Rainbow groaned. "Whatever. Guess I'll come by later with some beers. Say, next Friday? Eh?"
 
-A few ponies rubbed their heads, not sure how to break the news, before Pinkie Pie cocked her head and said, "Wait a minute, there's not even gonna be a Friday next Friday! The story's exploding!"
+A few ponies rubbed their heads, not sure how to break the news, before Pinkie Pie cocked her head and said, "Wait a minute, there's not even gonna *be* a Friday next Friday! The story's exploding!"
 
-"Oh, right," Rainbow's smile faltered. "Well, next *next* Friday, then."
+"Oh, right," Rainbow's smile faltered. "Well, *next* next Friday, then."
 
 Pinkie Pie nodded. "I see no problem with that!"
 

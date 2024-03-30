@@ -50,6 +50,6 @@ For once, Discord seemed deep in comtemplation, as he looked up at the ever-pres
 
 "Yup," he said, as his lawn chair and sun reflector reappeared. "It was nice knowing you ponies. Don't let the dislike button hit you on the way out."
 
-"The - what?" Fluttershy asked.
+"The - what button?" Fluttershy asked.
 
-"Eh, this is going nowhere," Rarity said, waving Fluttershy and Pinkie Pie away with her. "Let's see how the rest are doing."
+"Oh, this is going nowhere," Rarity said, waving Fluttershy and Pinkie Pie away with her. "Let's see how the rest are doing."

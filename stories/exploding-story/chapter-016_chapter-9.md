@@ -1,5 +1,3 @@
-# Rainbow x Rarity
-
 I am about to knock on Rarity's door when it opens.
 
 "Oh, Rainbow Dash, just the pony I wanted to see. Would you like to come in?"

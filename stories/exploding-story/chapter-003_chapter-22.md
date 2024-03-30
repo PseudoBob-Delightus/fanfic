@@ -1,24 +1,18 @@
-# Pinkie Pie
+Twilight knocked on Pinkie's bedroom door as she entered. "Pinkie, are you here?"
 
-Twilight knocked on Pinkie's bedroom door and the door opens.
-
-Twilight entered. "Pinkie, are you here?"
-
-A rustle came from one of Pinkie's cabinets, before moments later Pinkie sprung out of it doing cartwheels.
-
-Pinkie stopped just before hitting Twilight, her mane springing forward, booping Twilight.
+A rustle came from the closet, moments before Pinkie sprung out of it doing cartwheels. She came to a stop at the last moment, ending up nose-to-nose with Twilight.
 
 "Hi, Twilight, what's up?"
 
-"I was wonder if you knew anything about that?" Twilight points up at the title.
+Twilight had to back up a little before pointing up at the title. "I was wondering if you knew anything about that?"
 
 \[image\]
 
-"Oh," Pinkie said in wonder, "I wonder what happens when a story explodes!"
+"Oh!" Pinkie gasped "Is the story really gonna explode?"
 
-"So, you didn't have anything to do with this?"
+"Okay. You just noticed it." Twilight sighed, and her hoof found her face. "Great."
 
-"No, do you think I could touch it if I jump high enough?"
+"I bet I could touch it if I jump high enough!"
 
 "Pinkie, this is serious. We need to figure out what's going on."
 
@@ -26,20 +20,20 @@ Pinkie wasn't listening, she was already jumping to try and touch the title.
 
 "Pinkie!"
 
-After another moment of hopelessly trying to touch it, Pinkie gave up. She Noticed Twilight was still there and said, "Twilight? What are you doing here still?"
+After another moment of hopelessly trying to touch it, Pinkie gave up. She noticed Twilight was still there and said, "Twilight? What are you still doing here?"
 
-"We need to go and figure this out."
+"Getting you." She turned towards the door and motioned for Pinkie to follow her. "Come on, we need to go and figure this out."
 
-"Okay, let me grab my *exploding story confetti* and I'll be ready!" Pinkie says before rummaging in her closet.
+"Okay," Pinkie said before diving back into her closet. "Just let me grab my exploding story confetti and I'll be ready!"
 
-"Why do you have confetti for exploding stories?"
+That stopped Twilight in her tracks. "Why do you have *exploding story confetti*?"
 
-Pinkie lifts out a confetti container, marked on the side in bubbly font: Exploding Story Confetti. "Never ask why Twilight, ask why not."
+Pinkie tossed a heavy box onto the floor, marked on the side in military stencil: Exploding Story Confetti. "Never ask why, young Twilight," she said sagely. "Ask: why not?"
 
 "Okay, so, you're ready?"
 
-"Yes, an exploding story sounds fun! I can't wait to see what happens."
+"Yeah! An exploding story sounds fun! I can't wait to see what happens."
 
-"Okay, let's go, Pinkie."
+"It's not- Ugh, okay, whatever, let's go."
 
-Pinkie nods then Twilight started out the door. Pinkie followed behind, bouncing bubbly with a smile.
+Twilight marched out the door, and Pinkie followed behind, bouncing bubbly with a smile.

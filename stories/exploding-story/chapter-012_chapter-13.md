@@ -1,4 +1,4 @@
-"Let go of, let go of me!" Twilight growled.
+"Let go of me, let go!" Twilight growled.
 
 Applejack and Rainbow Dash didn't let go of her.
 

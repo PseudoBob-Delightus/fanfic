@@ -1,0 +1,1 @@
+The title hung beneath the stars. A golden M over a field of purple snapped against the breeze. At this hour, nothing alive stirred. Or at least nothing known to be alive.

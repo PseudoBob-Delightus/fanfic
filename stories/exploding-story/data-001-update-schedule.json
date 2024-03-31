@@ -196,6 +196,6 @@
         "description": "TODO",
         "short_description": "TODO",
         "title": "This Story Did Not Explode",
-        "status": "Complete"
+        "completion_status": "complete"
     }
 ]

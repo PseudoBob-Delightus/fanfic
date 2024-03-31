@@ -4,23 +4,23 @@ A rustle came from the closet, moments before Pinkie sprung out of it doing cart
 
 "Hi, Twilight, what's up?"
 
-Twilight had to back up a little before pointing up at the title. "I was wondering if you knew anything about that?"
+Twilight blinked before pointing up at the title. "I was wondering if you knew anything about that?"
 
 \[image\]
 
 "Oh!" Pinkie gasped "Is the story really gonna explode?"
 
-"Okay. You just noticed it." Twilight sighed, and her hoof found her face. "Great."
+"Okay. You just noticed it." Twilight sighed. "Great."
 
 "I bet I could touch it if I jump high enough!"
 
 "Pinkie, this is serious. We need to figure out what's going on."
 
-Pinkie wasn't listening, she was already jumping to try and touch the title.
+Pinkie wasn't listening. She was already jumping to try and touch the title.
 
 "Pinkie!"
 
-After another moment of hopelessly trying to touch it, Pinkie gave up. She noticed Twilight was still there and said, "Twilight? What are you still doing here?"
+After another moment of jumping from various angles, Pinkie gave up. She noticed Twilight was still there and said, "Twilight? What are you still doing here?"
 
 "Getting you." She turned towards the door and motioned for Pinkie to follow her. "Come on, we need to go and figure this out."
 

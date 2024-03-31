@@ -35,40 +35,59 @@
 
 ## Chapter 19
 - Fluttershy
+- Fluttershy refuses to leave the cottage for fear of the story exploding
+- The gang has to push her out
+- She's confusingly strong when her motivation is "hide"
+- Recruiting Fluttershy for world-at-stake missions is still a Problem
 
 ## Chapter 18
 - Rarity
 - ~~God I hate Rarity~~
+- Rarity has decided that what she doesn't see can't hurt her
+- She will help Twilight with her little mission or whatever-it-is, but she shan't be looking up. Certainly not.
+- (Relatively painless recruitment)
+- "Say, have any of you seen Sweetie Belle?"
+- AJ: "Come to think of it, I haven't seen Apple Bloom recently neither."
+- Everyone looks at Rainbow Dash
+- RD: "What?"
+- Other: "Have you seen Scootaloo recently?"
+- RD: "Who's Scootaloo?"
 
 ## Chapter 17
 - CMC?
 - Hiding in the clubhouse because they don't want to look at the sky and end up costing the author more commissions? (Joke about the commissioned chapter artwork obv)
 
 ## Chapter 16
-- Ponyville events?
-- Holiday?
-- Wedding?
-- Funeral?
-  - Maybe Twilight says the funeral isn't important because everyone is going to die soon
-  - They kick her out, obviously
-
-## Chapter 15
-- Discord?
-- Don't want to rely too heavily on him.
-
-## Chapter 14
-- Sea Swirl, just the pony to help us solve this problem!
-- No, we didn't just pick you because you were the closest pony at this exact moment!
-
-## Chapter 13
 - Sunset Shimmer comes back to Equestria and asks if anyone else noticed the story is going to end in half a day
 - "Yeah, we noticed!"
+- Maybe it can be a chatfic.
 
-## Chapter 12hr
+## Chapter 15hr
 - Twilight has assembled the elements of harmony and they all try to stop the story from exploding. It doesn't work. Panic!
 
-## Chapter 11
+## Chapter 14
+- Funeral?
+- A funeral ceremony gets in Twilight's way as she sulks about the elements not working
+- Maybe Twilight says the funeral isn't important because everything is going to die soon
+- They don't appreciate it, obviously
+- Twilight's friends can see she's rude
+
+## Chapter 13
+- Discord?
+- Don't want to rely too heavily on him.
+- The gang asks Discord for help
+- He says he would, but he was curious about how non-existence might feel, so he'd rather just let it come to pass
+- Not even Fluttershy can convince him
+
+## Chapter 12
+- It's officially night, but the moon fails to rise
 - Twilight goes to Celestia and Luna, who don't know what's going on either and are even more panicked than she is. Canterlot may be on fire.
+- Running out of options
+
+## Chapter 11
+- Sea Swirl, just the pony to help us solve this problem!
+- No, we didn't just pick you because you were the closest pony at this exact moment!
+- She's in the story tags so she must be important
 
 ## Chapter 10
 - Twilight gives in to despair. Her friends console her.
@@ -85,6 +104,7 @@
   - Opalescence
   - Spike
     - "Hey, shouldn't this be about Owlowysius?"
+    - Will he still be in Canterlot? Or a different city?
 
 ## Chapter 7
 - Entire first chapter of a human in equestria story (anon?) where, after a series of unfortunate and grizzly events, the human arrives in the everfree forest and sees that the story is about to explode in a few hours.

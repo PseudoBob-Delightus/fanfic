@@ -6,74 +6,58 @@ I am about to knock on Rarity's door when it opens.
 
 "I as well."
 
-Rarity leads them over to her couch, where they sit down.
+Rarity leads me over to a couch, where we sit down.
 
 "Were you looking for me because of that?" I point to the title, which is still visible inside, somehow.
 
-\[image\]
-
-"Yes, darling. I was planning on letting this happen naturally, but it appears as somepony has other plans."
+"Yes..." There's a slight smile on her face. "I wanted to let this happen naturally, but it appears the universe has other plans."
 
 "That's kind of why I'm here, too."
 
 "I wanted to spend more time with you…"
 
-I hug her. "Me too."
+"Me too."
 
-She hugs back.
+My stomach turns, and I can feel the distance between us. My voice wavers as I ask, "Should I say it?"
 
-I nuzzle her after the hug. "Should I say it?"
+She smiles at me like she knew all along. "Go ahead."
 
-She smiles at me, blushing. "Go ahead."
+I feel a blush coming over me as I squeeze my eyes shut and say, "Rarity, I think I love you."
 
-I feel a blush coming over me as I become enthralled by her beauty.
+Rarity replies, serenely, "Rainbow Dash, I think I love you, too."
 
-I say, softly, "Rarity, I love you."
+A sound comes out of me, and my eyes are wet. I can't tell if I'm laughing or crying. All I know is Rarity's hooves are around me, and I lean into her, and our lips meet. We kiss passionately.
 
-Rarity says, serenely, "Rainbow Dash, I love you."
+It ends too soon. But I'm comfortable just hugging her.
 
-We both take in the moment, staring into each other's eyes.
+I hear a sniffle, and a tear drops onto my withers. She's crying, too.
 
-We both start leaning in, and our lips meet. We kiss passionately, holding each other.
+As I hold her, I whisper, "I've wanted to do this for so long…"
 
-Both our eyes start watering, but neither of us try to hide them.
+"Me too," Rarity whispers back.
 
-We break the kiss and hold each other tight.
+Feeling giggly now, I admit, "You know, normally I consider myself number one at everything, but I can admit defeat on one thing."
 
-As I hold her, I whisper, "I've wanted to do this for so long…" My tears continue.
+"What's that?"
 
-"I have too," Rarity whispers back.
+I pull way from her, briefly, to get a good look. "You are the most beautiful mare ever."
 
-As we let go of the hug, I kiss her cheek, causing her blush to intensify.
-
-She holds my hoof and stares me at, smiling.
-
-I admit, "You know, normally I consider myself number one at everything, but there is one thing I don't mind you being number one at."
-
-"What?"
-
-"You are the most beautiful mare ever."
-
-Her blush grows. "Well, you are the prettiest mare ever."
+"Well, you are the prettiest mare ever!"
 
 "Aren't those the same thing?"
 
-"We'll call it a tie, deal?"
+"Why don't we call it a tie?"
 
-"Deal." I pull Rarity into a loving embrace, resting her head on my chest.
+"Deal." I pull her back into an embrace, nuzzling her neck.
 
-Rarity nuzzles her head to my chest. "If this is our last day together, I'm at least glad I am about to spend it with you."
+Rarity rests her chin on my head. "If this is our last day together, I'm at least glad I am about to spend it with you."
 
-I nuzzle the top of her head. "Me too." I kiss her head.
+We sit there in silence for a while, just enjoying each other's presence.
 
-We sit there in silence for a while, just enjoying each others presence.
+Even so, I can't shake the idea of this all ending in a big explosion. I ask in a whisper, "Do you think Twilight will be able to figure out how to stop it?"
 
-I whisper in her ear, "I love you."
+"I sure hope so," Rarity says.
 
-She whispers back, "I love you too," before kissing my chest.
+I hug her a little tighter. "Me too, Rarity. Me too."
 
-My voice weakens. "Do you think Twilight will be able to figure out how to stop it?"
-
-"I sure hope so."
-
-"Me too, Rarity. Me too."
+\[image\]

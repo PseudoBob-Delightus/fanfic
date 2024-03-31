@@ -127,6 +127,11 @@
             "id": 24,
             "title": "Chapter 1",
             "file": "stories/exploding-story/chapter-024_chapter-1"
+        },
+        {
+            "id": 25,
+            "title": "Chapter 0",
+            "file": "stories/exploding-story/chapter-025_chapter-0"
         }
     ]
 	"posts": [

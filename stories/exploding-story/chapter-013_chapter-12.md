@@ -56,7 +56,7 @@ Celestia pointed up. "Look!"
 
 "Don't tell them we were here!" one of them called out after her.
 
-"DO YOUR FUCKING JOBS AND I MIGHT CONSIDER IT!"
+"DO YOUR DAMNED JOBS AND I MIGHT CONSIDER IT!"
 
 As she stomped out of the palace, there seemed to be less and less light coming through the windows. She managed to unset her jaw by the time she returned to the gardens, where the rest of the gang (not including Spike) was playing Euchre with the royal guards under a night sky. She asked, "Where's Spike?" but was only answered by shrugs. "Whatever. Let's get out of here."
 

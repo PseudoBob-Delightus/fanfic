@@ -30,6 +30,4 @@ Twilight rolled her eyes. "Okay, you don't know anything. Great. Guess we'll-"
 
 Twilight had to think about that question for a second or two. That proved to be a second or two too long, as Rainbow Dash had already jumped into the air and made some distance. With another rainbow streak, she plowed into the floating title.
 
-\[image\]
-
 "Ow."

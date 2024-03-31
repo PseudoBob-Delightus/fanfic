@@ -12,6 +12,14 @@ The whole den had been at work for two nights straight - ever since that title h
 
 \[image\]
 
-Rover paid it no mind. Only silly ponies fell for such nonsense! Not enlightened Diamond Dogs!
-
 Still, only four hours left... Not a lot of time. A dog might get worried.
+
+But not Rover.
+
+He was *definitely* not worried that everything might suddenly end in a fiery explosion a pawful of hours from now. Only silly ponies would fall for this nonsense. 
+
+It... *was* nonsense...
+
+...
+
+Right?

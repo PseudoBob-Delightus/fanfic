@@ -32,7 +32,7 @@ It ends too soon. But I'm comfortable just hugging her.
 
 I hear a sniffle, and a tear drops onto my withers. She's crying, too.
 
-As I hold her, I whisper, "I've wanted to do this for so long…"
+As I hold her, I whisper, "I've wanted to tell you for so long…"
 
 "Me too," Rarity whispers back.
 
@@ -50,7 +50,7 @@ I pull way from her, briefly, to get a good look. "You are the most beautiful ma
 
 "Deal." I pull her back into an embrace, nuzzling her neck.
 
-Rarity rests her chin on my head. "If this is our last day together, I'm at least glad I am about to spend it with you."
+Rarity rests her chin on my head. "If this is our last day together, I'm glad I can at least spend it with you."
 
 We sit there in silence for a while, just enjoying each other's presence.
 

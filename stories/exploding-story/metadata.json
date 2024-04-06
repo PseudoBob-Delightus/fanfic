@@ -2,11 +2,143 @@
 	"title": "This Story Will Explode in 24 Hours",
 	"type": "story",
     "shortdesc": ""
-    "settings": ["mlpfim"],
-    "characters": [],
-	"genres": [],
+    "settings": ["mlpfim", "mlpeqg"],
+    "characters": ["twilight","main6","other"],
+	"genres": ["comedy","mystery","random"],
     "warnings": [],
     "misctags": [],
+    "chapters": [
+        {
+            "id": 1,
+            "title": "Chapter 24",
+            "file": "stories/exploding-story/chapter-001_chapter-24"
+        },
+        {
+            "id": 2,
+            "title": "Chapter 23",
+            "file": "stories/exploding-story/chapter-002_chapter-23"
+        },
+        {
+            "id": 3,
+            "title": "Chapter 22",
+            "file": "stories/exploding-story/chapter-003_chapter-22"
+        },
+        {
+            "id": 4,
+            "title": "Chapter 21",
+            "file": "stories/exploding-story/chapter-004_chapter-21"
+        },
+        {
+            "id": 5,
+            "title": "Chapter 20",
+            "file": "stories/exploding-story/chapter-005_chapter-20"
+        },
+        {
+            "id": 6,
+            "title": "Chapter 19",
+            "file": "stories/exploding-story/chapter-006_chapter-19"
+        },
+        {
+            "id": 7,
+            "title": "Chapter 18",
+            "file": "stories/exploding-story/chapter-007_chapter-18"
+        },
+        {
+            "id": 8,
+            "title": "Chapter 17",
+            "file": "stories/exploding-story/chapter-008_chapter-17"
+        },
+        {
+            "id": 9,
+            "title": "Chapter 16",
+            "file": "stories/exploding-story/chapter-009_chapter-16"
+        },
+        {
+            "id": 10,
+            "title": "Chapter 15",
+            "file": "stories/exploding-story/chapter-010_chapter-15"
+        },
+        {
+            "id": 11,
+            "title": "Chapter 14",
+            "file": "stories/exploding-story/chapter-011_chapter-14"
+        },
+        {
+            "id": 12,
+            "title": "Chapter 13",
+            "file": "stories/exploding-story/chapter-012_chapter-13"
+        },
+        {
+            "id": 13,
+            "title": "Chapter 12",
+            "file": "stories/exploding-story/chapter-013_chapter-12"
+        },
+        {
+            "id": 14,
+            "title": "Chapter 11",
+            "file": "stories/exploding-story/chapter-014_chapter-11"
+        },
+        {
+            "id": 15,
+            "title": "Chapter 10",
+            "file": "stories/exploding-story/chapter-015_chapter-10"
+        },
+        {
+            "id": 16,
+            "title": "Chapter 9",
+            "file": "stories/exploding-story/chapter-016_chapter-9"
+        },
+        {
+            "id": 17,
+            "title": "Chapter 8",
+            "file": "stories/exploding-story/chapter-017_chapter-8"
+        },
+        {
+            "id": 18,
+            "title": "Chapter 7",
+            "file": "stories/exploding-story/chapter-018_chapter-7"
+        },
+        {
+            "id": 19,
+            "title": "Chapter 6",
+            "file": "stories/exploding-story/chapter-019_chapter-6"
+        },
+        {
+            "id": 20,
+            "title": "Chapter 5",
+            "file": "stories/exploding-story/chapter-020_chapter-5"
+        },
+        {
+            "id": 21,
+            "title": "Chapter 4",
+            "file": "stories/exploding-story/chapter-021_chapter-4"
+        },
+        {
+            "id": 22,
+            "title": "Chapter 3",
+            "file": "stories/exploding-story/chapter-022_chapter-3"
+        },
+        {
+            "id": 23,
+            "title": "Chapter 2",
+            "file": "stories/exploding-story/chapter-023_chapter-2"
+        },
+        {
+            "id": 24,
+            "title": "Chapter 1",
+            "file": "stories/exploding-story/chapter-024_chapter-1"
+        },
+        {
+            "id": 25,
+            "title": "Chapter 0",
+            "file": "stories/exploding-story/chapter-025_chapter-0"
+        },
+        {
+            "id": 26,
+            "title": "Chapter ...💥?",
+            "file": "stories/exploding-story/chapter-026_chapter-boom"
+        }
+    ]
 	"posts": [
 		
 	],

@@ -3,77 +3,91 @@
         "release_hour": 0,
         "release_minute": 0,
         "chapter_id" : 1741755,
-        "short_description": "Sounds pretty serious!"
         "description": "The story is going to explode! Eek!\n\n[hr]\n\nThis is a very fun collaboration with [url=/user/237915/]Silk Rose[/url], who came up with the idea and wrote all the code.\n\nAll character art was drawn by [url=https://irradiatedpiratebooty.tumblr.com/]IrradiatedPirateBooty[/url].",
+        "short_description": "Sounds pretty serious!",
+        "cover": "chapter-001_chapter-24_cover.png"
     },
     {
         "release_hour": 1,
         "release_minute": 0,
-        "chapter_id" : 1741756
+        "chapter_id" : 1741756,
+        "cover": "chapter-002_chapter-23_cover.png"
     },
     {
         "release_hour": 2,
         "release_minute": 0,
         "chapter_id" : 1741757,
         "description": "The story is going to explode! Eek!\n\n[hr]\n\nThis is a very fun collaboration with [url=/user/237915/]Silk Rose[/url], who came up with the idea and wrote Chapter 22, as well as all the code.\n\nAll character art was drawn by [url=https://irradiatedpiratebooty.tumblr.com/]IrradiatedPirateBooty[/url].",
+        "cover": "chapter-003_chapter-22_cover.png"
     },
     {
         "release_hour": 3,
         "release_minute": 0,
-        "chapter_id" : 1741758
+        "chapter_id" : 1741758,
+        "cover": "chapter-004_chapter-21_cover.png"
     },
     {
         "release_hour": 4,
         "release_minute": 0,
-        "chapter_id" : 1741759
+        "chapter_id" : 1741759,
+        "cover": "chapter-005_chapter-20_cover.png"
     },
     {
         "release_hour": 5,
         "release_minute": 0,
         "chapter_id" : 1741760,
-        "short_description": "Still a ways away, but I wouldn't stick around if I were you."
+        "short_description": "Still a ways away, but I wouldn't stick around if I were you.",
+        "cover": "chapter-006_chapter-19_cover.png"
     },
     {
         "release_hour": 6,
         "release_minute": 0,
-        "chapter_id" : 1741761
+        "chapter_id" : 1741761,
+        "cover": "chapter-007_chapter-18_cover.png"
     },
     {
         "release_hour": 7,
         "release_minute": 0,
-        "chapter_id" : 1741762
+        "chapter_id" : 1741762,
+        "cover": "chapter-008_chapter-17_cover.png"
     },
     {
         "release_hour": 8,
         "release_minute": 0,
-        "chapter_id" : 1741763
+        "chapter_id" : 1741763,
+        "cover": "chapter-009_chapter-16_cover.png"
     },
     {
         "release_hour": 9,
         "release_minute": 0,
-        "chapter_id" : 1741764
+        "chapter_id" : 1741764,
+        "cover": "chapter-010_chapter-15_cover.png"
     },
     {
         "release_hour": 10,
         "release_minute": 0,
-        "chapter_id" : 1741765
+        "chapter_id" : 1741765,
+        "cover": "chapter-011_chapter-14_cover.png"
     },
     {
         "release_hour": 11,
         "release_minute": 0,
-        "chapter_id" : 1741766
+        "chapter_id" : 1741766,
+        "cover": "chapter-012_chapter-13_cover.png"
     },
     {
         "release_hour": 12,
         "release_minute": 0,
         "chapter_id" : 1741767,
-        "short_description": "That's half a day - closer than you'd think!"
+        "short_description": "That's half a day - closer than you'd think!",
+        "cover": "chapter-013_chapter-12_cover.png"
     },
     {
         "release_hour": 13,
         "release_minute": 0,
         "chapter_id" : 1741768,
-        "short_description": "I'm not sure that's what they mean by 'eleventh hour', but it's still bad."
+        "short_description": "I'm not sure that's what they mean by 'eleventh hour', but it's still bad.",
+        "cover": "chapter-014_chapter-11_cover.png"
     },
     {
         "release_hour": 13,
@@ -83,34 +97,40 @@
     {
         "release_hour": 14,
         "release_minute": 0,
-        "chapter_id" : 1741769
+        "chapter_id" : 1741769,
+        "cover": "chapter-015_chapter-10_cover.png"
     },
     {
         "release_hour": 15,
         "release_minute": 0,
         "chapter_id" : 1741770,
         "description": "The story is going to explode! Eek!\n\n[hr]\n\nThis is a very fun collaboration with [url=/user/237915/]Silk Rose[/url], who came up with the idea and wrote chapters 22 and 9, as well as all the code.\n\nAll character art was drawn by [url=https://irradiatedpiratebooty.tumblr.com/]IrradiatedPirateBooty[/url].",
+        "cover": "chapter-016_chapter-9_cover.png"
     },
     {
         "release_hour": 16,
         "release_minute": 0,
-        "chapter_id" : 1741771
+        "chapter_id" : 1741771,
+        "cover": "chapter-017_chapter-8_cover.png"
     },
     {
         "release_hour": 17,
         "release_minute": 0,
-        "chapter_id" : 1741772
+        "chapter_id" : 1741772,
+        "cover": "chapter-018_chapter-7_cover.png"
     },
     {
         "release_hour": 18,
         "release_minute": 0,
         "chapter_id" : 1741773,
-        "short_description": "Not enough time to roast a turkey."
+        "short_description": "Not enough time to roast a turkey.",
+        "cover": "chapter-019_chapter-6_cover.png"
     },
     {
         "release_hour": 19,
         "release_minute": 0,
-        "chapter_id" : 1741774
+        "chapter_id" : 1741774,
+        "cover": "chapter-020_chapter-5_cover.png"
     },
     {
         "release_hour": 19,
@@ -125,17 +145,20 @@
     {
         "release_hour": 20,
         "release_minute": 0,
-        "chapter_id" : 1741775
+        "chapter_id" : 1741775,
+        "cover": "chapter-021_chapter-4_cover.png"
     },
     {
         "release_hour": 21,
         "release_minute": 0,
-        "chapter_id" : 1741776
+        "chapter_id" : 1741776,
+        "cover": "chapter-022_chapter-3_cover.png"
     },
     {
         "release_hour": 22,
         "release_minute": 0,
-        "chapter_id" : 1741777
+        "chapter_id" : 1741777,
+        "cover": "chapter-023_chapter-2_cover.png"
     },
     {
         "release_hour": 22,
@@ -150,14 +173,16 @@
     {
         "release_hour": 23,
         "release_minute": 0,
-        "chapter_id" : 1741778
+        "chapter_id" : 1741778,
+        "cover": "chapter-024_chapter-1_cover.png"
     },
     {
         "release_hour": 24,
         "release_minute": 0,
         "chapter_id" : 1741779,
-        "short_description": "Run for the hills!"
         "description": "The story is going to explode any minute now! Eek!\n\n[hr]\n\nThis is a very fun collaboration with [url=/user/237915/]Silk Rose[/url], who came up with the idea and wrote chapters 22 and 9, as well as all the code.\n\nAll character art was drawn by [url=https://irradiatedpiratebooty.tumblr.com/]IrradiatedPirateBooty[/url].",
+        "short_description": "Run for the hills!",
+        "cover": "chapter-025_chapter-0_cover.png"
     },
     {
         "release_hour": 24,
@@ -181,6 +206,7 @@
         "description": "This story did not explode! What a relief and/or letdown.\n\n[hr]\n\nThis was a very fun collaboration with [url=/user/237915/]Silk Rose[/url], who came up with the idea and wrote chapters 22 and 9, as well as all the code.\n\nAll character art was drawn by [url=https://irradiatedpiratebooty.tumblr.com/]IrradiatedPirateBooty[/url].",
         "short_description": "Phew! That was a close one.",
         "title": "This Story Did Not Explode",
-        "completion_status": "complete"
+        "completion_status": "complete",
+        "cover": "chapter-026_chapter-boom_cover.png"
     }
 ]

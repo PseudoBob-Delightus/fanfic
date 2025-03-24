@@ -1,5 +1,5 @@
-[
-    "000" : {
+{
+    "0" : {
         "next_event": 1,
         "duration": 10,
         "like_delta": 2,
@@ -30,7 +30,7 @@
             "authors_note": "AN AUTHOR'S NOTE!!!"
         }
     },
-    "001" : {
+    "1" : {
         "next_event": 2,
         "duration": 10,
         "like_delta": 2,
@@ -63,11 +63,11 @@
             "authors_note": "A different author's note ;)"
         }
     },
-    "002" : {
         "duration": 10,
+    "2" : {
         "like_delta": 2,
         "chapter_title": "Proposal 2",
-        "content": "chapter-002-a-prompt",
+        "content": "chapter-002-a-prompt.md",
         "title_below": "More votes to go",
         "title_exact": "Vote target reached!",
         "title_above": "Vote target exceeded!",
@@ -95,4 +95,4 @@
             "authors_note": "A different author's note ;)"
         }
     }
-]
+}

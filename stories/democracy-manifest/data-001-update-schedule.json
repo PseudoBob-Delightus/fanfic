@@ -1,0 +1,98 @@
+[
+    "000" : {
+        "next_event": 1,
+        "duration": 10,
+        "like_delta": 2,
+        "title_below": "More votes to go",
+        "title_exact": "Vote target reached!",
+        "title_above": "Vote target exceeded!",
+        "description": "Long description ;)",
+        "short_description_below": "short description below ;)",
+        "short_description_exact": "short description exact ;)",
+        "short_description_above": "short description above ;)",
+        "authors_note": "Author's note ;)",
+        "result": {
+            "title_fail": "Vote Failed",
+            "title_pass": "Vote Passed",
+            "short_description_fail": "short description FAIL ;(",
+            "short_description_pass": "short description PASS ;(",
+            "chapter_title": "Resolution 0",
+            "content_pass": "chapter-000-b-pass.md",
+            "content_fail": "chapter-000-c-fail.md",
+            "content_pass_replace": {
+                "{repl_twilot}": "Twilight Sparkle",
+                "{repl_sidekick}": "Spike"
+            },
+            "content_fail_replace": {
+                "{repl_twilot}": "Punished \"Venom\" Twilight",
+                "{repl_sidekick}": "Miller"
+            },
+            "authors_note": "AN AUTHOR'S NOTE!!!"
+        }
+    },
+    "001" : {
+        "next_event": 2,
+        "duration": 10,
+        "like_delta": 2,
+        "chapter_title": "Proposal 1",
+        "content": "chapter-001-a-prompt.md",
+        "title_below": "More votes to go",
+        "title_exact": "Vote target reached!",
+        "title_above": "Vote target exceeded!",
+        "description": "Long description ;)",
+        "short_description_below": "short description below ;)",
+        "short_description_exact": "short description exact ;)",
+        "short_description_above": "short description above ;)",
+        "authors_note": "Author's note ;)",
+        "result": {
+            "title_fail": "Vote Failed",
+            "title_pass": "Vote Passed",
+            "short_description_fail": "short description FAIL ;(",
+            "short_description_pass": "short description PASS ;(",
+            "chapter_title": "Resolution 1",
+            "content_pass": "chapter-001-b-pass.md",
+            "content_fail": "chapter-001-c-fail.md",
+            "content_pass_replace": {
+                "{repl_twilot}": "Twilight Sparkle",
+                "{repl_sidekick}": "Spike"
+            },
+            "content_fail_replace": {
+                "{repl_twilot}": "Punished \"Venom\" Twilight",
+                "{repl_sidekick}": "Miller"
+            },
+            "authors_note": "A different author's note ;)"
+        }
+    },
+    "002" : {
+        "duration": 10,
+        "like_delta": 2,
+        "chapter_title": "Proposal 2",
+        "content": "chapter-002-a-prompt",
+        "title_below": "More votes to go",
+        "title_exact": "Vote target reached!",
+        "title_above": "Vote target exceeded!",
+        "description": "Long description ;)",
+        "short_description_below": "short description below ;)",
+        "short_description_exact": "short description exact ;)",
+        "short_description_above": "short description above ;)",
+        "authors_note": "Author's note ;)",
+        "result": {
+            "title_fail": "Vote Failed",
+            "title_pass": "Vote Passed",
+            "short_description_fail": "short description FAIL ;(",
+            "short_description_pass": "short description PASS ;(",
+            "chapter_title": "Resolution 2",
+            "content_pass": "chapter-002-b-pass.md",
+            "content_fail": "chapter-002-c-fail.md",
+            "content_pass_replace": {
+                "{repl_twilot}": "Twilight Sparkle",
+                "{repl_sidekick}": "Spike"
+            },
+            "content_fail_replace": {
+                "{repl_twilot}": "Punished \"Venom\" Twilight",
+                "{repl_sidekick}": "Miller"
+            },
+            "authors_note": "A different author's note ;)"
+        }
+    }
+]

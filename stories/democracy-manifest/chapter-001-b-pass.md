@@ -1,11 +1,21 @@
-Almost every pony in the crowd raised their hooves and answered with a resounding 'aye!'.
+Hooves were raised. 'Aye's were said. Tears were shed. Democracy in action was a beautiful thing.
 
-The old stallion smiled. "You got it. That's exactly how it works, like. Now run along now - you can take care o' yourselves with that, can't you?"
+"Well, that's good," the stallion said. "Now I can finally paint this thing."
 
-Empowered by the simplicity of this new system, the crowd broke into a cacophany - several groups held impromptu decisions, all shouted 'aye!', and ran in one direction or another, but a few stayed back, still curious.
+The pegasus came forward from the congratulatory crowd with her head held low. "Hay. I'm sorry for pressing you on this democracy stuff."
 
-"Just a minute," one said. "Is it just called 'the system'? Or do they call it something different in Pegalopolis?"
+The stallion shook his head. "Nah, it's fine. I'm just glad you kids are taking it so seriously."
 
-"Hmmm," the stallion thought. "It might have a few different names, like, dependin' on where you get it from. But from what my daughter tells me, in Pegalopolis...
+"I'm not a kid," she said, deadly serious. "I'm thirty-two."
 
-"They call it democracy."
+"Oh, well sor-ry then. I thought you were younger. Shouldn't that be a compliment, or somethin'?"
+
+"Not exactly..."
+
+"Fine. I am glad you all are taking it serious, no matter if you're kids or young adults or whatever, alright? Now just..."
+
+The stallion looked her in the eye.
+
+"Just find somethin' more deservin' of a vote next time, alright?"
+
+The pegasus raised an eyebrow. "Got any ideas?"

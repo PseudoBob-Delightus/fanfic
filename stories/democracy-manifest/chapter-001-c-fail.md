@@ -1,11 +1,17 @@
-A few ponies stuck their hooves up and said 'aye', but the rest were uncertain, which made the few ponies with their hooves up also feel uncertain.
+They waited for the moment of glory. And waited. And waited.
 
-The old stallion frowned. "Well, some o' you got it..." He looked across the group, critical of the ones who seemed indecisive. "I think if'n you practice a mite, you'll have it all figured out in no time. So why don't you all run off now and try decidin' things for folk, eh?"
+"Vote whenever you like, folks," the fence-owner commented, leaning across the fence in a posture that emphasized his total boredom.
 
-The crowd dispersed with a shrug, and a few groups went here or there with murmured discussions about how they might try this system. But a few ponies stayed back, still curious.
+"Well," the pegasus spoke, "I think we have. Looks like we don't have enough ayes. The proposal to paint the fence fails."
 
-"Just a minute," one said. "Is it just called 'the system'? Or do they call it something different in Pegalopolis?"
+"What!? You're tellin' me you put me through all that speechin' and arguin', and I don't even get to paint my fence at the end of it?"
 
-"Hmmm," the stallion thought. "It might have a few different names, like, dependin' on where you get it from. But from what my daughter tells me, in Pegalopolis...
+The pegasus silently conferred with a few of the other members of her group before turning back to the stallion and nodding. "Eeyup," she said.
 
-"They call it democracy."
+Several expressions flashed across his face in quick succession - before he finaly settled on one of serene acceptance. His voice was emminently peaceful as he said, "Well, guess I gotta find somethin' else to spend that paint on, huh?"
+
+"Indeed," she said.
+
+"Just one thing," the owner of the unpainted fence said. "Next time you go ruinin' someone's plans for the day, make sure it's for a better reason, alright?"
+
+The pegasus smiled. "Shall we vote on it?"

@@ -1,0 +1,1 @@
+Twilight, still going a bit insane from the last thing, has a breakdown at the library and proposes to herself that she leave and get help from Celestia. The target for this would be one vote. She'll do it one way or another.

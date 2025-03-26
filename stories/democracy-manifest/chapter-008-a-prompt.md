@@ -1,0 +1,1 @@
+Form an orderly crowd to hunt Fluttershy down for her crimes of being a passive-aggressive little snob who's not even all that pretty. (if it fails, they form a mob to do the same.)

@@ -1,0 +1,1 @@
+"Taxation without Representation" - they try to tax themselves so Canterlot will recognize them.

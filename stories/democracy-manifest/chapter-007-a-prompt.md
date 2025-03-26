@@ -1,0 +1,1 @@
+Hospital staff propose throwing Anon out of Ponyville General, due to none of them wanting to treat him for the wounds he received in his Exploding Story chapter. (Or maybe they already treated him for that last year, and "it happened again")

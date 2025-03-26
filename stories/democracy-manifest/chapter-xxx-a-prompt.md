@@ -1,0 +1,3 @@
+- The Royal Guard descends on Ponyville and informs the townsfolk that they must abandon democracy or be considered traitors to the Crown and treated accordingly. They have some amount of time (a day?)
+- In this time they hold a vote on the proposition of declaring themselves independent from Equestria and initiating an armed rebellion. The vote outcome will mostly just determine how many of them rebel. Success means a lot, failure means only a few. The guard descends regardless.
+- Mayor Mare arrives in town in both end scenarios to witness the rebellion getting put down, and various other consequences of the townsfolk's decisions throughout the story. This final result chapter will probably be written in real-time (sort of) and published manually.

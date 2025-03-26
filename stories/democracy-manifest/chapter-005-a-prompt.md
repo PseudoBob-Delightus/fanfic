@@ -1,0 +1,1 @@
+Twilight hears about the tax thing and figures she'll just correct their misguided idea of the concept, but then she learns what's happening, and goes a little insane. The crowd proposes she shut up.

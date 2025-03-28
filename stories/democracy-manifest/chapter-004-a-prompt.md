@@ -8,7 +8,7 @@ Sea Breeze sighed, and looked at the unicorn who'd been wheeled in front of her.
 
 The unicorn stared at her with a raised eyebrow.
 
-"... Okay, maybe it's a bit of a fad. But as long as the Mayor's gone, we've got to manage things on our own, and it seems Democracy is the best way to do it. If that makes it a 'fad', so be it."
+"... Okay, maybe it's a bit of a fad. But as long as the Mayor's gone, we've got to manage things on our own, and it seems democracy is the best way to do it. If that makes it a 'fad', so be it."
 
 The unicorn seemed to take that well, and extended her hoof. "Billfold, at your service."
 
@@ -24,15 +24,15 @@ Sea Breeze wasn't sure right away what to say to that. "... Right. Well, anyway.
 
 Hughbert Jellius nodded enthusiastically. "I think that makes perfect sense."
 
-"So then, if we want this Democracy stuff to work out long term - supposing the Mayor takes her time before coming back, of course - then we need representation, so we need taxation."
+"So then, if we want this democracy stuff to work out long term - supposing the Mayor takes her time before coming back, of course - then we need representation, so we need taxation."
 
 Billfold licked her lips almost imperceptibly. "I see."
 
 "I was thinking," Sea Breeze continued, "we can vote to levy a tax on ourselves. Since Filthy Rich owns all the money here -"
 
-"He owns the bank, dear," Billfold interjected. "That doesn't mean he owns the money. But do continue."
+"He owns the *bank*, dear," Billfold interjected. "That doesn't mean he owns the money. But do continue."
 
-"Okay, well, he owns the bank, and he's probably the richest guy in town..." - she waited for an interruption that didn't come - "... so then he might know the most about taxes and stuff. If we vote to levy a tax, we'll need Filthy's input on implementation."
+"Okay, well, he owns the bank, and he's probably the richest pony in town..." - she waited for an interruption that didn't come - "... so then he might know the most about taxes and stuff. If we vote to levy a tax, we'll need Filthy's input on implementation."
 
 "That sounds like a *perfect* idea," Billfold gushed. "In fact, I strongly suspect Mr. Rich will be quite pleased to assist you in your democratic efforts."
 

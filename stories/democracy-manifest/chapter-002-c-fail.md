@@ -38,7 +38,7 @@ The strange air currents suddenly stopped. "Oh, am I?"
 
 "Oh."
 
-"Uhuh."
+"Yeah."
 
 "Does it ever end well for the hero?"
 

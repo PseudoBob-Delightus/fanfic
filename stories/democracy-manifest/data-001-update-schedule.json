@@ -272,6 +272,15 @@
         "short_description_below": "Just like the story, folks.",
         "short_description_exact": "How is it so hard to agree on this?",
         "short_description_above": "Congratulations may be in order, as long as %ld% people don't vote against the proposal in %ml% minutes.",
-        "authors_note": "Voting for this Proposal will be active until %ee% EST, or %ml% minutes after this chapter has been published. See [voting instructions]() for more information."
+        "authors_note": "Voting for this Proposal will be active until %ee% EST, or %ml% minutes after this chapter has been published. See [voting instructions]() for more information.",
+        "result": {
+            "title_fail": "Vote Failed",
+            "title_pass": "Vote Passed",
+            "short_description_fail": "Dagnabbit...",
+            "short_description_pass": "Yay?",
+            "chapter_title": "Resolution 12",
+            "content_pass": "chapter-xxx-x-final.md",
+            "content_fail": "chapter-xxx-x-final.md"
+        }
     }
 }

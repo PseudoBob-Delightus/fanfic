@@ -14,7 +14,7 @@ Nurse Redheart nodded. "You're right on it, Doctor."
 
 There he was. It was creepy, looking at his featureless green face, you could almost see a pained expression on him. He refused to lay down on his cot. Instead, he held his knee to his barrel with those 'fingers' of his, and rocked back and forth, seeming to emit some cyclical noise of agony.
 
-"It's not natural," Doctor Horse said, with a volume that dared to be heard through the door. "And it's a drain on our resources. Every time his kind show up, they just get themselves injured, get some free medicine, courtesy of Equestria, and then they run off with trouble-makers to go get themselves injured again."
+"It's not natural," Doctor Horse said, with a volume that dared to be heard through the door. "And it's a drain on our resources. Every time his kind show up, they just get themselves injured, get some free medicine courtesy of Equestria, and then they run off with trouble-makers to go get themselves injured again."
 
 "Or worse," a nurse mumbled, hiding her smirk behind a hoof. "Pregnant."
 
@@ -24,7 +24,7 @@ Doctor Horse blanched. "Oh, thank you. I guess that'll be in my head forever."
 
 A round of grumbling agreement went around the gaggle. "Nopony's saying we don't!" Dr. Bonesaw objected.
 
-"I am," Doctor Horse said, causing all eyes to turn towards him - many in a displeased manner. "Times are changing. The town is embracing democracy. The future is staring us in the face, and the cup may not run over forever." He effected the motion of holding something out, then turning it upside down. "Let it spill. I propose we throw out these freeloading aliens - this one and all the rest. The way their luck tends to go, we may be doing them a favour, anyway."
+"I am," Doctor Horse said, causing all eyes to turn towards him - many in a displeased manner. "Times are changing. Our town is embracing democracy. The future is staring us in the face, and the cup may not run over forever." He effected the motion of holding something out, then turning it upside down. "Let it spill. I propose we throw out these freeloading aliens - this one and all the rest. The way their luck tends to go, we may be doing them a favour, anyway."
 
 Redheart could hardly believe what was being said, and looked on in horror and rage. But, as nopony objected, and the nurses and doctors alike began to nod at what they were hearing, she realized this was completely, entirely real.
 

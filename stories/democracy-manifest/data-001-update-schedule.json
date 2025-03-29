@@ -3,31 +3,21 @@
         "next_event": 1,
         "duration": 10,
         "like_delta": 2,
-        "title_below": "More votes to go",
-        "title_exact": "Vote target reached!",
-        "title_above": "Vote target exceeded!",
+        "title_below": "Need %ld% Likes to Adopt Democracy",
+        "title_exact": "Like Target Reached for Adopting Democracy",
+        "title_above": "%ld% Extra Likes Received for Adopting Democracy",
         "description": "Long description ;)",
-        "short_description_below": "short description below ;)",
-        "short_description_exact": "short description exact ;)",
-        "short_description_above": "short description above ;)",
-        "authors_note": "Author's note ;)",
+        "short_description_below": "Only %ml% minutes left to make this momentous decision...!",
+        "short_description_exact": "And with %ml% minutes to spare!",
+        "short_description_above": "And with %ml% minutes to spare!",
         "result": {
-            "title_fail": "Vote Failed",
-            "title_pass": "Vote Passed",
-            "short_description_fail": "short description FAIL ;(",
-            "short_description_pass": "short description PASS ;(",
-            "chapter_title": "Resolution 0",
+            "title_pass": "Democracy Adopted!",
+            "title_fail": "Democracy Not Adopted... (YET)",
+            "short_description_pass": "A great victory for democracy!",
+            "short_description_fail": "A tragic defeat for democracy... (SO FAR)",
+            "chapter_title": "Resolution 1",
             "content_pass": "chapter-000-b-pass.md",
-            "content_fail": "chapter-000-c-fail.md",
-            "content_pass_replace": {
-                "{repl_twilot}": "Twilight Sparkle",
-                "{repl_sidekick}": "Spike"
-            },
-            "content_fail_replace": {
-                "{repl_twilot}": "Punished \"Venom\" Twilight",
-                "{repl_sidekick}": "Miller"
-            },
-            "authors_note": "AN AUTHOR'S NOTE!!!"
+            "content_fail": "chapter-000-c-fail.md"
         }
     },
     "1" : {

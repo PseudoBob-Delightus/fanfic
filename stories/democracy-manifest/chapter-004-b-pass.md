@@ -1,6 +1,6 @@
 The votes were in. The 'aye's had it. A tax there would be.
 
-Filthy Rich held his gold-plated lighter to the Zaphzian cigar in Sea Breeze's mouth. "Taste that?" he asked.
+Filthy Rich held his gold-plated lighter to the Zaphzian cigar in Sea Swirl's mouth. "Taste that?" he asked.
 
 She took a puff, which did not mix well with her smoke-free lungs. Despite the coughing fit, she managed to nod and squeeze out the words, "It's good!"
 

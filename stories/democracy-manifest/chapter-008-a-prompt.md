@@ -26,7 +26,7 @@ Poppyseed thought, and as she thought, she blew a pink bubble that got bigger an
 
 "Babe, that's, like, a *crazy* good idea." Another bubble was born; another bubble died. "But, like, what do you mean? I literally have no idea what you mean."
 
-"Do I gotta spell it out? I'm saying we do one of those vote things. And as for the proposal, well..." Chew. Inflate. Pop. "How about we get some of our friends together and show her what we think about her... um... freakishness. And shyness. And even her prissyness, if it turns out she is a little prissy."
+"Do I gotta spell it out? I'm saying we do one of those vote things. And as for the proposal, well..." Chew. Inflate. Pop. "How about we get some ponies together and show her what we think about her... um... freakishness. And shyness. And even her prissyness, if it turns out she is a little prissy."
 
 "She's *not*, babe," Sunflower grumbled. "But the rest of that sounded pretty good. It can be, like, one of those angry mob situations, from the plays, you know?"
 

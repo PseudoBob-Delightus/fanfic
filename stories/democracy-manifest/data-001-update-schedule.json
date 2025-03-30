@@ -73,6 +73,30 @@
         "duration": 5,
         "like_delta": 2,
         "chapter_title": "Proposal 4",
+        "content": "chapter-101-a-prompt-runictreetops.md",
+        "title_below": "Need %ld% Likes to Take Twilight's Wings Away",
+        "title_exact": "Exactly Enough Likes to Take Twilight's Wings Away",
+        "title_above": "%ld% Extra Likes for Taking Twilight's Wings Away",
+        "description": "Thanks to [Silk Rose](https://www.fimfiction.net/user/237915/) for developing the code and writing some chapters; thanks also to collaborators [RunicTreetops](https://www.fimfiction.net/user/489485/), [Scriblits Talo](https://www.fimfiction.net/user/495925/), et al. for writing their chapters.",
+        "short_description_below": "If we don't get enough likes in %ml% minutes, we might say we're sorry.",
+        "short_description_exact": "%ml% minutes left until we show her what for.",
+        "short_description_above": "%ml% minutes left until we show her what for.",
+        "authors_note": "Voting for this Proposal will be active until %ee% EST, or %ml% minutes after this chapter has been published. See [voting instructions]() for more information.",
+        "result": {
+            "title_fail": "The Vote To Take Twilight's Wings Away Has Failed",
+            "title_pass": "The Vote To Take Twilight's Wings Away Has Passed",
+            "short_description_fail": "Sorry, not sorry.",
+            "short_description_pass": "I hope she brought enough for everypony.",
+            "chapter_title": "Resolution 4",
+            "content_pass": "chapter-101-b-pass-runictreetops.md",
+            "content_fail": "chapter-101-c-fail-runictreetops.md"
+        }
+    },
+    "4" : {
+        "next_event": 5,
+        "duration": 5,
+        "like_delta": 2,
+        "chapter_title": "Proposal 5",
         "content": "chapter-003-a-prompt.md",
         "title_below": "Need %ld% Likes to Win",
         "title_exact": "Exactly Enough Likes to Win",
@@ -87,16 +111,16 @@
             "title_pass": "Vote Passed",
             "short_description_fail": "Dagnabbit...",
             "short_description_pass": "Yay?",
-            "chapter_title": "Resolution 4",
+            "chapter_title": "Resolution 5",
             "content_pass": "chapter-003-b-pass.md",
             "content_fail": "chapter-003-c-fail.md"
         }
     },
-    "4" : {
-        "next_event": 5,
+    "5" : {
+        "next_event": 6,
         "duration": 5,
         "like_delta": 2,
-        "chapter_title": "Proposal 5",
+        "chapter_title": "Proposal 6",
         "content": "chapter-004-a-prompt.md",
         "title_below": "Need %ld% Likes to Tax Ourselves",
         "title_exact": "Exactly Enough Likes To Tax Ourselves",
@@ -111,16 +135,16 @@
             "title_pass": "The Vote To Levy A Tax Has Passed",
             "short_description_fail": "Now how will we finance our means-tested end-phase double-blind import tax rebate for single-father small-business owners attenting a Historically Donkey College or University?",
             "short_description_pass": "Another 20 trillion bits to Re'em!",
-            "chapter_title": "Resolution 5",
+            "chapter_title": "Resolution 6",
             "content_pass": "chapter-004-b-pass.md",
             "content_fail": "chapter-004-c-fail.md"
         }
     },
-    "5" : {
-        "next_event": 6,
+    "6" : {
+        "next_event": 7,
         "duration": 5,
         "like_delta": 2,
-        "chapter_title": "Proposal 6",
+        "chapter_title": "Proposal 7",
         "content": "chapter-005-a-prompt.md",
         "title_below": "Need %ld% Likes to Make Twilight Shut Up",
         "title_exact": "Exactly Enough Likes to Make Twilight Shut Up",
@@ -135,16 +159,16 @@
             "title_pass": "The Vote To Make Twilight Shut Up Has Passed",
             "short_description_fail": "Now we're in for an earful...",
             "short_description_pass": "You think she'll actually do it this time?",
-            "chapter_title": "Resolution 6",
+            "chapter_title": "Resolution 7",
             "content_pass": "chapter-005-b-pass.md",
             "content_fail": "chapter-005-c-fail.md"
         }
     },
-    "6" : {
-        "next_event": 7,
+    "7" : {
+        "next_event": 8,
         "duration": 5,
         "like_delta": 2,
-        "chapter_title": "Proposal 7",
+        "chapter_title": "Proposal 8",
         "content": "chapter-006-a-prompt.md",
         "title_below": "Need %ld% Likes to Push Ponyville Three Inches To The Left",
         "title_exact": "Exactly Enough Likes to Push Ponyville Three Inches To The Left",
@@ -159,16 +183,16 @@
             "title_pass": "The Vote To Push Ponyville Three Inches To The Left Has Passed",
             "short_description_fail": "Maybe the real three inches to the left was the friends we made along the way?",
             "short_description_pass": "Wait, why did we do this?",
-            "chapter_title": "Resolution 7",
+            "chapter_title": "Resolution 8",
             "content_pass": "chapter-006-b-pass.md",
             "content_fail": "chapter-006-c-fail.md"
         }
     },
-    "7" : {
-        "next_event": 8,
+    "8" : {
+        "next_event": 9,
         "duration": 5,
         "like_delta": 2,
-        "chapter_title": "Proposal 8",
+        "chapter_title": "Proposal 9",
         "content": "chapter-007-a-prompt.md",
         "title_below": "Need %ld% Likes to Kick Anon Out Of The Hospital",
         "title_exact": "Exactly Enough Likes to Kick Anon Out Of The Hospital",
@@ -183,16 +207,16 @@
             "title_pass": "The Vote To Kick Anon Out Of The Hospital Has Passed",
             "short_description_fail": "What are we, Canada?",
             "short_description_pass": "Don't worry, he's one intersection away from becoming someone else's problem.",
-            "chapter_title": "Resolution 8",
+            "chapter_title": "Resolution 9",
             "content_pass": "chapter-007-b-pass.md",
             "content_fail": "chapter-007-c-fail.md"
         }
     },
-    "8" : {
-        "next_event": 9,
+    "9" : {
+        "next_event": 10,
         "duration": 5,
         "like_delta": 2,
-        "chapter_title": "Proposal 9",
+        "chapter_title": "Proposal 10",
         "content": "chapter-008-a-prompt.md",
         "title_below": "Need %ld% Likes to Form An Anti-Fluttershy Mob",
         "title_exact": "Exactly Enough Likes to Form An Anti-Fluttershy Mob",
@@ -207,16 +231,16 @@
             "title_pass": "The Vote To Form An Anti-Fluttershy Mob Has Passed",
             "short_description_fail": "Time for a mob nobody voted for!",
             "short_description_pass": "No quarter for the bunny rabbit!",
-            "chapter_title": "Resolution 9",
+            "chapter_title": "Resolution 10",
             "content_pass": "chapter-008-b-pass.md",
             "content_fail": "chapter-008-c-fail.md"
         }
     },
-    "9" : {
-        "next_event": 10,
+    "10" : {
+        "next_event": 11,
         "duration": 5,
         "like_delta": 2,
-        "chapter_title": "Proposal 10",
+        "chapter_title": "Proposal 11",
         "content": "chapter-009-a-prompt.md",
         "title_below": "Need %ld% Likes to Win",
         "title_exact": "Exactly Enough Likes to Win",
@@ -231,16 +255,16 @@
             "title_pass": "Vote Passed",
             "short_description_fail": "Dagnabbit...",
             "short_description_pass": "Yay?",
-            "chapter_title": "Resolution 10",
+            "chapter_title": "Resolution 11",
             "content_pass": "chapter-009-b-pass.md",
             "content_fail": "chapter-009-c-fail.md"
         }
     },
-    "10" : {
-        "next_event": 11,
+    "11" : {
+        "next_event": 12,
         "duration": 5,
         "like_delta": 2,
-        "chapter_title": "Proposal 11",
+        "chapter_title": "Proposal 12",
         "content": "chapter-010-a-prompt.md",
         "title_below": "Need %ld% Likes to Win",
         "title_exact": "Exactly Enough Likes to Win",
@@ -255,15 +279,15 @@
             "title_pass": "Vote Passed",
             "short_description_fail": "Dagnabbit...",
             "short_description_pass": "Yay?",
-            "chapter_title": "Resolution 11",
+            "chapter_title": "Resolution 12",
             "content_pass": "chapter-010-b-pass.md",
             "content_fail": "chapter-010-c-fail.md"
         }
     },
-    "11" : {
+    "12" : {
         "duration": 5,
         "like_delta": 2,
-        "chapter_title": "Proposal 12",
+        "chapter_title": "Proposal 13",
         "content": "chapter-xxx-a-prompt.md",
         "title_below": "Need %ld% Likes to Win",
         "title_exact": "Exactly Enough Likes to Win",
@@ -278,7 +302,7 @@
             "title_pass": "Vote Passed",
             "short_description_fail": "Dagnabbit...",
             "short_description_pass": "Yay?",
-            "chapter_title": "Resolution 12",
+            "chapter_title": "Resolution 13",
             "content_pass": "chapter-xxx-x-final.md",
             "content_fail": "chapter-xxx-x-final.md"
         }

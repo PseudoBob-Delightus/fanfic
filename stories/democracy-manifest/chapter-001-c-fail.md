@@ -4,7 +4,7 @@ They waited for the moment of glory. And waited. And waited.
 
 "Well," the pegasus spoke, "I think we have. Looks like we don't have enough ayes. The proposal to paint the fence fails."
 
-"What!? You're tellin' me you put me through all that speechin' and arguin', and I don't even get to paint my fence at the end of it?"
+"*What!?* You're tellin' me you put me through all that speechin' and arguin', and I don't even get to paint my fence at the end of it?"
 
 The pegasus silently conferred with a few of the other members of her group before turning back to the stallion and nodding. "Eeyup," she said.
 

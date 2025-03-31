@@ -30,6 +30,10 @@ Pinkie hugs tighter. "You don't need to apologize. I found the confidence for bo
 
 Fluttershy giggles. "Thank you."
 
+Pinkie says, "You're still cuter, though."
+
+Fluttershy and Pinkie share a giggle.
+
 Pinkie says, "I love you!"
 
 Fluttershy replies, "I love you, too!"

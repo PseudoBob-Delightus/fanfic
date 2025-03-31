@@ -1,8 +1,6 @@
 Pinkie smiles. "that was fun!"
 
-the group of ponies wishes her luck before leaving.
-
-Pinkie rushes back to Fluttershy, finding her where she left her.
+The group of ponies wish her luck as she rushes back to where she left Fluttershy.
 
 "Fluttershy!"
 
@@ -12,7 +10,7 @@ Pinkie rushes back to Fluttershy, finding her where she left her.
 
 "Pinkie?"
 
-Pinkie hugs Fluttershy, ending the cycle before it truly could begin.
+Pinkie hugs Fluttershy, ending the cycle before it got out of hoof.
 
 Fluttershy hugs back and says, "I love you…"
 
@@ -22,13 +20,15 @@ Fluttershy hugs tighter.
 
 Pinkie nuzzles Fluttershy before the hug ends.
 
-"What's going on, Pinkie?"
+Pinkie blushes. "Hey, Fluttershy… I had something I wanted to ask if you don't mind"
 
-Pinkie blushes. "Well, I really really like you… and I wanted to ask you something."
+Fluttershy replies curiously, "What's going on, Pinkie?"
+
+Pinkie blushes. "Well, I really really like you… and I wanted to ask you something. It's okay if you say no."
 
 Fluttershy giggles. "I really like you too! And I can answer your question."
 
-"Fluttershy, will you go out with me?"
+"Fluttershy, do you want to go out with me?"
 
 Fluttershy blushes. "Yes! I'd love to."
 
@@ -36,13 +36,13 @@ Pinkie cheers. "Yay!"
 
 Fluttershy takes a page from her new marefriend and tackles her with a hug.
 
-Pinkie rebounds with a hug of her own, holding Fluttershy tight.
+Pinkie counters with a hug of her own, holding Fluttershy tight.
 
-They sit up still hugging.
+They sit up and giggle while still holding each other. Pinkie boops Fluttershy on the nose.
 
-Fluttershy whispers, "I wanted to ask you out, I might have if you didn't ask me first."
+Fluttershy whispers, "I wanted to ask you out too, I might have if you didn't ask me first."
 
-Pinkie whispers back, "How could I not ask you out, you're so cute."
+Pinkie replies, "How could I not ask you out, you're the cutest pony in the world!"
 
 Fluttershy giggles. "I still think you are cuter."
 

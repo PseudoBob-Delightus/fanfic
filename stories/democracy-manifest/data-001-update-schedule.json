@@ -109,6 +109,32 @@
     "4" : {
         
     },
+    "X" : {
+        "chapter_id": X,
+        "duration": 5,
+        "like_delta": 1,
+        "chapter_title": "Proposal %id% - Pronounce Pecan Correctly",
+        "content": "chapter-102-a-prompt-scriblitstalo.md",
+        "title_below": "Need %ld% %ld[Likes|Like]% to Pronounce Pecan Correctly",
+        "title_exact": "Exactly Enough Likes to Pronounce Pecan Correctly",
+        "title_above": "%ld% Extra %ld[Ponies Are|Pony Is]% Pronouncing Pecan Correctly",
+        "description": "Thanks to [Silk Rose](https://www.fimfiction.net/user/237915/) for developing the code and writing some chapters; thanks also to collaborators [RunicTreetops](https://www.fimfiction.net/user/489485/), [Scriblits Talo](https://www.fimfiction.net/user/495925/), et al. for writing their chapters.",
+        "short_description_below": "Only %ml% %ml[minutes|minute]% before we have to decide how it's pronounced. I don't think we're going to make it.",
+        "short_description_exact": "The joke I wanted to make isn't age appropriate.",
+        "short_description_above": "Make sure to pronounce it with your whole chest. Really pronounce the heck out of it.",
+        "authors_note": "Voting for this Proposal will be active until %ee% EST, or %ml% minutes after this chapter was published. See [u][url=https://www.fimfiction.net/chapter/1817498]VOTING INSTRUCTIONS[/url][/u] for more information.",
+        "result": {
+            "title_fail": "The Vote To Pronounce Pecan Correctly Has Failed",
+            "title_pass": "The Vote To Pronounce Pecan Correctly Has Passed",
+            "short_description_fail": "At least it's still tasty, right?",
+            "short_description_pass": "Pecan? I hardly knew her!",
+            "chapter_title": "Resolution %id%",
+            "content_pass": "chapter-102-b-pass-scriblitstalo.md",
+            "content_fail": "chapter-102-c-fail-scriblitstalo.md",
+            "next_event_pass": X,
+            "next_event_fail": X
+        }
+    },
     "5" : {
         "chapter_id": 6,
         "duration": 5,

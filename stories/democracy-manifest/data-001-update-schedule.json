@@ -74,6 +74,32 @@
             "next_event_fail": 3
         }
     },
+    "X" : {
+        "chapter_id": X,
+        "duration": 5,
+        "like_delta": 1,
+        "chapter_title": "Proposal %id% - Pronounce Pecan Correctly",
+        "content": "chapter-102-a-prompt-scriblitstalo.md",
+        "title_below": "Need %ld% %ld[Likes|Like]% to Pronounce Pecan Correctly",
+        "title_exact": "Exactly Enough Likes to Pronounce Pecan Correctly",
+        "title_above": "%ld% Extra %ld[Ponies Are|Pony Is]% Pronouncing Pecan Correctly",
+        "description": "Thanks to [Silk Rose](https://www.fimfiction.net/user/237915/) for developing the code and writing some chapters; thanks also to collaborators [RunicTreetops](https://www.fimfiction.net/user/489485/), [Scriblits Talo](https://www.fimfiction.net/user/495925/), et al. for writing their chapters.",
+        "short_description_below": "Only %ml% %ml[minutes|minute]% before we have to decide how it's pronounced. I don't think we're going to make it.",
+        "short_description_exact": "The joke I wanted to make isn't age appropriate.",
+        "short_description_above": "Make sure to pronounce it with your whole chest. Really pronounce the heck out of it.",
+        "authors_note": "Voting for this Proposal will be active until %ee% EST, or %ml% minutes after this chapter was published. See [u][url=https://www.fimfiction.net/chapter/1817498]VOTING INSTRUCTIONS[/url][/u] for more information.",
+        "result": {
+            "title_fail": "The Vote To Pronounce Pecan Correctly Has Failed",
+            "title_pass": "The Vote To Pronounce Pecan Correctly Has Passed",
+            "short_description_fail": "At least it's still tasty, right?",
+            "short_description_pass": "Pecan? I hardly knew her!",
+            "chapter_title": "Resolution %id%",
+            "content_pass": "chapter-102-b-pass-scriblitstalo.md",
+            "content_fail": "chapter-102-c-fail-scriblitstalo.md",
+            "next_event_pass": X,
+            "next_event_fail": X
+        }
+    },
     "3" : {
         "chapter_id": 4,
         "duration": 5,
@@ -131,6 +157,32 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-102-b-pass-scriblitstalo.md",
             "content_fail": "chapter-102-c-fail-scriblitstalo.md",
+            "next_event_pass": X,
+            "next_event_fail": X
+        }
+    },
+    "X" : {
+        "chapter_id": X,
+        "duration": 5,
+        "like_delta": 1,
+        "chapter_title": "Proposal %id% - Relocate Twilight's Castle",
+        "content": "chapter-103-a-prompt-rubyboule.md",
+        "title_below": "Need %ld% %ld[Likes|Like]% to Relocate Twilight's Castle",
+        "title_exact": "Exactly Enough Likes to Relocate Twilight's Castle",
+        "title_above": "%ld% Extra %ld[Ponies Are|Pony Is]% Pronouncing Pecan Correctly",
+        "description": "Thanks to [Silk Rose](https://www.fimfiction.net/user/237915/) for developing the code and writing some chapters; thanks also to collaborators [RunicTreetops](https://www.fimfiction.net/user/489485/), [Scriblits Talo](https://www.fimfiction.net/user/495925/), et al. for writing their chapters.",
+        "short_description_below": "Only %ml% %ml[minutes|minute]% before we have to decide how it's pronounced. I don't think we're going to make it.",
+        "short_description_exact": "The joke I wanted to make isn't age appropriate.",
+        "short_description_above": "Make sure to pronounce it with your whole chest. Really pronounce the heck out of it.",
+        "authors_note": "Voting for this Proposal will be active until %ee% EST, or %ml% minutes after this chapter was published. See [u][url=https://www.fimfiction.net/chapter/1817498]VOTING INSTRUCTIONS[/url][/u] for more information.",
+        "result": {
+            "title_fail": "The Vote To Relocate Twilight's Castle Has Failed",
+            "title_pass": "The Vote To Relocate Twilight's Castle Has Passed",
+            "short_description_fail": "At least it's still tasty, right?",
+            "short_description_pass": "Pecan? I hardly knew her!",
+            "chapter_title": "Resolution %id%",
+            "content_pass": "chapter-103-b-pass-rubyboule.md",
+            "content_fail": "chapter-103-c-fail-rubyboule.md",
             "next_event_pass": X,
             "next_event_fail": X
         }
@@ -197,6 +249,32 @@
             "next_event_fail": 7
         }
     },
+    "X" : {
+        "chapter_id": X,
+        "duration": 5,
+        "like_delta": 1,
+        "chapter_title": "Proposal %id% - Suspend Mail Sorting",
+        "content": "chapter-104-a-prompt-fome.md",
+        "title_below": "Need %ld% %ld[Likes|Like]% to Suspend Mail Sorting",
+        "title_exact": "Exactly Enough Likes to Suspend Mail Sorting",
+        "title_above": "%ld% Extra %ld[Ponies Are|Pony Is]% Pronouncing Pecan Correctly",
+        "description": "Thanks to [Silk Rose](https://www.fimfiction.net/user/237915/) for developing the code and writing some chapters; thanks also to collaborators [RunicTreetops](https://www.fimfiction.net/user/489485/), [Scriblits Talo](https://www.fimfiction.net/user/495925/), et al. for writing their chapters.",
+        "short_description_below": "Only %ml% %ml[minutes|minute]% before we have to decide how it's pronounced. I don't think we're going to make it.",
+        "short_description_exact": "The joke I wanted to make isn't age appropriate.",
+        "short_description_above": "Make sure to pronounce it with your whole chest. Really pronounce the heck out of it.",
+        "authors_note": "Voting for this Proposal will be active until %ee% EST, or %ml% minutes after this chapter was published. See [u][url=https://www.fimfiction.net/chapter/1817498]VOTING INSTRUCTIONS[/url][/u] for more information.",
+        "result": {
+            "title_fail": "The Vote To Suspend Mail Sorting Has Failed",
+            "title_pass": "The Vote To Suspend Mail Sorting Has Passed",
+            "short_description_fail": "At least it's still tasty, right?",
+            "short_description_pass": "Pecan? I hardly knew her!",
+            "chapter_title": "Resolution %id%",
+            "content_pass": "chapter-104-b-pass-fome.md",
+            "content_fail": "chapter-104-c-fail-fome.md",
+            "next_event_pass": X,
+            "next_event_fail": X
+        }
+    },
     "7" : {
         "chapter_id": 8,
         "duration": 5,
@@ -223,6 +301,32 @@
             "next_event_fail": 8
         }
     },
+    "X" : {
+        "chapter_id": X,
+        "duration": 5,
+        "like_delta": 1,
+        "chapter_title": "Proposal %id% - Emancipate The Youths",
+        "content": "chapter-105-a-prompt-meteormirage.md",
+        "title_below": "Need %ld% %ld[Likes|Like]% to Emancipate The Youths",
+        "title_exact": "Exactly Enough Likes to Emancipate The Youths",
+        "title_above": "%ld% Extra %ld[Ponies Are|Pony Is]% Pronouncing Pecan Correctly",
+        "description": "Thanks to [Silk Rose](https://www.fimfiction.net/user/237915/) for developing the code and writing some chapters; thanks also to collaborators [RunicTreetops](https://www.fimfiction.net/user/489485/), [Scriblits Talo](https://www.fimfiction.net/user/495925/), et al. for writing their chapters.",
+        "short_description_below": "Only %ml% %ml[minutes|minute]% before we have to decide how it's pronounced. I don't think we're going to make it.",
+        "short_description_exact": "The joke I wanted to make isn't age appropriate.",
+        "short_description_above": "Make sure to pronounce it with your whole chest. Really pronounce the heck out of it.",
+        "authors_note": "Voting for this Proposal will be active until %ee% EST, or %ml% minutes after this chapter was published. See [u][url=https://www.fimfiction.net/chapter/1817498]VOTING INSTRUCTIONS[/url][/u] for more information.",
+        "result": {
+            "title_fail": "The Vote To Emancipate The Youths Has Failed",
+            "title_pass": "The Vote To Emancipate The Youths Has Passed",
+            "short_description_fail": "At least it's still tasty, right?",
+            "short_description_pass": "Pecan? I hardly knew her!",
+            "chapter_title": "Resolution %id%",
+            "content_pass": "chapter-105-b-pass-meteormirage.md",
+            "content_fail": "chapter-105-c-fail-meteormirage.md",
+            "next_event_pass": X,
+            "next_event_fail": X
+        }
+    },
     "8" : {
         "chapter_id": 9,
         "duration": 5,
@@ -247,6 +351,32 @@
             "content_fail": "chapter-007-c-fail.md",
             "next_event_pass": 9,
             "next_event_fail": 9
+        }
+    },
+    "X" : {
+        "chapter_id": X,
+        "duration": 5,
+        "like_delta": 1,
+        "chapter_title": "Proposal %id% - Order A Hay, Lettuce, Tomato, And Catfish Sandwich",
+        "content": "chapter-106-a-prompt-tapedeck.md",
+        "title_below": "Need %ld% %ld[Likes|Like]% to Order A Hay, Lettuce, Tomato, And Catfish Sandwich",
+        "title_exact": "Exactly Enough Likes to Order A Hay, Lettuce, Tomato, And Catfish Sandwich",
+        "title_above": "%ld% Extra %ld[Ponies Are|Pony Is]% Pronouncing Pecan Correctly",
+        "description": "Thanks to [Silk Rose](https://www.fimfiction.net/user/237915/) for developing the code and writing some chapters; thanks also to collaborators [RunicTreetops](https://www.fimfiction.net/user/489485/), [Scriblits Talo](https://www.fimfiction.net/user/495925/), et al. for writing their chapters.",
+        "short_description_below": "Only %ml% %ml[minutes|minute]% before we have to decide how it's pronounced. I don't think we're going to make it.",
+        "short_description_exact": "The joke I wanted to make isn't age appropriate.",
+        "short_description_above": "Make sure to pronounce it with your whole chest. Really pronounce the heck out of it.",
+        "authors_note": "Voting for this Proposal will be active until %ee% EST, or %ml% minutes after this chapter was published. See [u][url=https://www.fimfiction.net/chapter/1817498]VOTING INSTRUCTIONS[/url][/u] for more information.",
+        "result": {
+            "title_fail": "The Vote To Order A Hay, Lettuce, Tomato, And Catfish Sandwich Has Failed",
+            "title_pass": "The Vote To Order A Hay, Lettuce, Tomato, And Catfish Sandwich Has Passed",
+            "short_description_fail": "At least it's still tasty, right?",
+            "short_description_pass": "Pecan? I hardly knew her!",
+            "chapter_title": "Resolution %id%",
+            "content_pass": "chapter-106-b-pass-tapedeck.md",
+            "content_fail": "chapter-106-c-fail-tapedeck.md",
+            "next_event_pass": X,
+            "next_event_fail": X
         }
     },
     "9" : {

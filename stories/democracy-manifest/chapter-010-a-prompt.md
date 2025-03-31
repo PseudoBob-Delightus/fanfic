@@ -2,11 +2,11 @@ A discarded flag, or it might have been a plastic bag for all anypony cared, tum
 
 That is a story for *this* time, even though none of it was literally true. To Twilight Sparkle it may as well have been.
 
-First, that fiasco with her wings. Her lunch break hadn't been disturbed so thoroughly since last week - {and at least that time, she hadn't gone hungry!} {OR} {and that was a pretty low bar! At least she'd gotten to eat.}
+First, that fiasco with her wings. Her lunch break hadn't been disturbed so thoroughly since last week - {ch-010-repl-1}
 
-Second, nopony wanted her feedback on their misappropriation of the principles of taxation. And they {even} {OR} {almost} told her to shut up, too!
+Second, nopony wanted her feedback on their misappropriation of the principles of taxation. And they {ch-010-repl-2} {even} {OR} {almost} told her to shut up, too!
 
-Last, but certainly not least, her castle had {been relocated to the center of town!} {OR} {almost been relocated!} Who even *does* that? She wished she'd have been present for *that* vote, so she could give them a piece of her mind - but alas, they'd have probably told her to shut up then, too.
+Last, but certainly not least, her castle had {ch-010-repl-3} {been relocated to the center of town!} {OR} {almost been relocated!} Who even *does* that? She wished she'd have been present for *that* vote, so she could give them a piece of her mind - but alas, they'd have probably told her to shut up then, too.
 
 The mayor was gone, and the citizens had no respect for the next closest thing to an authority figure - their own Princess of Friendship. This town was going to Tartarus in a tote bag. Soon, Friendship itself would fall, cast aside in one democratic outcome or another, and all would fall to ruin. 
 
@@ -18,7 +18,7 @@ Twilight recoiled from the idea as soon as it came to mind. She knew her ancient
 
 Few now remember their name, their motto, or their fate, cursing these poor souls in Ponyville to repeat the same. 
 
-Twilight hesitated to put pen to paper, and stepped away to look out her window. Her {drastically altered view} {OR} {thankfully unaltered view} gave her a perfect vantage to see a crowd of ponies playing around with some sort of siege weapon, possibly a catapult, though it certainly wasn't aimed at her. In the distance, a great banner had been raised above a voting booth, to fire and fanfare. It read: 'RENAME PONYVILLE TO TOWNY MCTOWNFACE'. The line of ponies waiting to cast votes stretched far away.
+Twilight hesitated to put pen to paper, and stepped away to look out her window. Her {ch-010-repl-4} {drastically altered view} {OR} {thankfully unaltered view} gave her a perfect vantage to see a crowd of ponies playing around with some sort of siege weapon, possibly a catapult, though it certainly wasn't aimed at her. In the distance, a great banner had been raised above a voting booth, to fire and fanfare. It read: 'RENAME PONYVILLE TO TOWNY MCTOWNFACE'. The line of ponies waiting to cast votes stretched far away.
 
 With a sigh, Twilight returned to her desk.
 

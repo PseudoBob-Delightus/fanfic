@@ -96,6 +96,12 @@
             "chapter_title": "Resolution %id% (by RunicTreetops)",
             "content_pass": "chapter-101-b-pass-runictreetops.md",
             "content_fail": "chapter-101-c-fail-runictreetops.md",
+            "content_pass_replace": {
+                "{ch-010-repl-1}": "and at least that time, she hadn't gone hungry!"
+            },
+            "content_fail_replace": {
+                "{ch-010-repl-1}": "and that was a pretty low bar! At least she'd gotten to eat."
+            },
             "next_event_pass": 4,
             "next_event_fail": 4
         }

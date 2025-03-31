@@ -2,9 +2,9 @@ Fluttershy smiles as she gains the confidence to ask out her crush.
 
 "Thank you all," she says to them.
 
-The group of ponies wish her farewell and leave.
+The group of ponies wish her farewell.
 
-Fluttershy trots back to where she and Pinkie were earlier. Pinkie is still there.
+Fluttershy gallops back to where she and Pinkie were earlier. Pinkie is still there.
 
 "Pinkie?" Fluttershy asks.
 
@@ -12,9 +12,9 @@ Fluttershy trots back to where she and Pinkie were earlier. Pinkie is still ther
 
 Fluttershy tries to take Pinkie's hoof and hold it, but Pinkie hugs her before she can.
 
-"I love you, Fluttershy."
+"I love you, Fluttershy!"
 
-"I love you too. What's up?" Fluttershy asks.
+Fluttershy blushes. "…I love you too, Pinkie. What's up?"
 
 After the hug, Pinkie stares at Fluttershy with a warm smile. "I really like you."
 
@@ -28,11 +28,11 @@ Pinkie's face lights up more than it already was. "Yes!"
 
 Fluttershy pulls Pinkie into another hug as both mares smile and blush.
 
-Pinkie giggles. "You know, I was about to ask you out, but you beat me to it."
+"You know what's crazy? I was about to ask you out too, but you beat me to it!" Pinkie snortles.
 
-Fluttershy giggles too. "I asked you out because those ponies voted and it gave me the confidence to do it."
+Fluttershy giggles too. "I asked you out because those ponies voted for it, and it gave me the confidence to do it."
 
-Pinkie says, "That was very nice of them."
+Pinkie says, "Aww, that was so nice of them!"
 
 Fluttershy squeezes Pinkie in the hug. "I love you."
 

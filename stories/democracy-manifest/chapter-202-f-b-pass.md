@@ -32,8 +32,8 @@ Fluttershy pulls Pinkie into another hug as both mares smile and blush.
 
 Fluttershy giggles too. "I asked you out because those ponies voted for it, and it gave me the confidence to do it."
 
-Pinkie says, "Aww, that was so nice of them!"
+Pinkie says, "Aww, that was so nice of them! I do still think you are cuter, though."
 
-Fluttershy squeezes Pinkie in the hug. "I love you."
+Fluttershy giggles and squeezes Pinkie in the hug. "I love you."
 
 Pinkie nuzzles Fluttershy. "I love you, too!"

@@ -20,7 +20,7 @@ That got a wingshrug. "How else should I vote for her?"
 
 Appointed rolled her eyes. "As in the thing we're voting on."
 
-The other mailmares shuddered, tails pressed against their backsides. "Politics really \[i]has\[/i] gone too far," said Rainy.
+The other mailmares shuddered, tails pressed against their backsides. "Politics really *has* gone too far," said Rainy.
 
 "Look, I'll show you: All who think we should we keep working for the day, say 'aye.'"
 

@@ -101,30 +101,7 @@
         }
     },
     "4" : {
-        "chapter_id": 5,
-        "duration": 5,
-        "like_delta": 1,
-        "chapter_title": "Proposal 5",
-        "content": "chapter-003-a-prompt.md",
-        "title_below": "Need %ld% %ld[Likes|Like]% to Win",
-        "title_exact": "Exactly Enough Likes to Win",
-        "title_above": "+%ld% %ld[Likes|Like]%! Win Get!",
-        "description": "Thanks to [Silk Rose](https://www.fimfiction.net/user/237915/) for developing the code and writing some chapters; thanks also to collaborators [RunicTreetops](https://www.fimfiction.net/user/489485/), [Scriblits Talo](https://www.fimfiction.net/user/495925/), et al. for writing their chapters.",
-        "short_description_below": "Just like the story, folks.",
-        "short_description_exact": "How is it so hard to agree on this?",
-        "short_description_above": "Congratulations may be in order, as long as %ld% %ld[people don't|person doesn't]% vote against the proposal in %ml% %ml[minutes|minutes]%.",
-        "authors_note": "Voting for this Proposal will be active until %ee% EST, or %ml% minutes after this chapter was published. See [u][url=https://www.fimfiction.net/chapter/1817498]VOTING INSTRUCTIONS[/url][/u] for more information.",
-        "result": {
-            "title_fail": "Vote Failed",
-            "title_pass": "Vote Passed",
-            "short_description_fail": "Dagnabbit...",
-            "short_description_pass": "Yay?",
-            "chapter_title": "Resolution 5",
-            "content_pass": "chapter-003-b-pass.md",
-            "content_fail": "chapter-003-c-fail.md",
-            "next_event_pass": 5,
-            "next_event_fail": 5
-        }
+        
     },
     "5" : {
         "chapter_id": 6,

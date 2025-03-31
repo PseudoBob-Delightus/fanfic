@@ -1,23 +1,23 @@
-Pinkie Pie stands victorious with a smile. "See, I told you you were cuter."
+Pinkie Pie laughs. "See, I told you you were cuter!"
 
-Fluttershy could only hold her hoof to her mouth, still blushing.
+Fluttershy's face turned red as she held her hoof to her mouth.
 
 The ponies that voted for her shouted out a few reasons.
 
-"You're eyes are so beautiful."
+"You have the most beautiful eyes!"
 
-"You're voice is so calming."
+"You're so sweet!"
 
-"You're nature is so welcoming."
+"You're so yellow!"
 
 The group began to leave as Fluttershy turned to Pinkie.
 
-Fluttershy hugs Pinkie. "I thought for sure you would win."
+Fluttershy hugs Pinkie. "I thought for sure you would win…"
 
-Pinkie hugs back. "I knew it was always going to be you."
+Pinkie hugs back and giggles. "I always knew it was going to be you!"
 
 After the hug is over, Pinkie looks back at the group that had decided and makes a decision. "Fluttershy, I need to go for now, I'll see you later?"
 
-Fluttershy nods. "Bye."
+Fluttershy nods. "Okay. See you later!"
 
 "Bye, Fluttershy the cute!"

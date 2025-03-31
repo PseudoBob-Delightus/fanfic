@@ -1,0 +1,1 @@
+- Mayor Mare arrives in town in both end scenarios to witness the rebellion getting put down, and various other consequences of the townsfolk's decisions throughout the story. This final result chapter will probably be written in real-time (sort of) and published manually.

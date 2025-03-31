@@ -7,7 +7,7 @@
         "title_exact": "Like Target Reached for Adopting Democracy",
         "title_above": "%ld% Extra Likes Received for Adopting Democracy",
         "description": "Thanks to [url=https://www.fimfiction.net/user/237915/]Silk Rose[/url] for developing the code; thanks also to collaborators for writing their chapters.\n TEST!",
-        "short_description_below": "%ml[Mins|Min]% left: %ml% | %lr[Likes|Like]% received: %lr% | Total %lt[likes|like]%: %lt% | Like delta (%ld[plural|single]%): %ld%",
+        "short_description_below": "Only %ml% minutes left to make this momentous decision...!",
         "short_description_exact": "And with %ml% minutes to spare!",
         "short_description_above": "And with %ml% minutes to spare!",
         "result": {

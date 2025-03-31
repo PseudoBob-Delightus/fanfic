@@ -148,6 +148,16 @@
             "chapter_title": "Resolution 6",
             "content_pass": "chapter-004-b-pass.md",
             "content_fail": "chapter-004-c-fail.md",
+            "content_pass_replace": {
+                "{ch-005-repl-1}": "ecstatic and more than a little drunk",
+                "{ch-005-repl-2}": "She seemed quite happy about it.",
+                "{ch-005-repl-3}": "It already happened, alright?"
+            },
+            "content_fail_replace": {
+                "{ch-005-repl-1}": "like she'd been crying recently, or drinking recently, or both",
+                "{ch-005-repl-2}": "She seemed quite bitter about it.",
+                "{ch-005-repl-3}": "It didn't even happen, alright?"
+            },
             "next_event_pass": 6,
             "next_event_fail": 6
         }

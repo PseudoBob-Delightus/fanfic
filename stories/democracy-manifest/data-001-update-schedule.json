@@ -24,9 +24,9 @@
     },
     "1" : {
         "chapter_id": 2,
-        "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Paint A Fence",
+        "duration": 60,
         "content": "chapter-001-a-prompt.md",
         "title_below": "Need %ld% %ld[Likes|Like]% to Paint A Fence",
         "title_exact": "Exactly Enough Likes to Paint A Fence",
@@ -48,11 +48,11 @@
             "next_event_fail": 2
         }
     },
-    "X" : {
-        "chapter_id": X,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Decide If Pinkie Pie Is Cuter Than Fluttershy",
+    "2" : {
+        "chapter_id": 3,
         "content": "chapter-201-a-prompt.md",
         "title_below": "Need %ld% %ld[Likes|Like]% to Decide If Pinkie Pie Is Cuter Than Fluttershy",
         "title_exact": "Exactly Enough Likes to Decide If Pinkie Pie Is Cuter Than Fluttershy",
@@ -70,15 +70,15 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-201-b-pass.md",
             "content_fail": "chapter-201-c-fail.md",
-            "next_event_pass": X,
-            "next_event_fail": X
+            "next_event_pass": 3,
+            "next_event_fail": 4
         }
     },
-    "X" : {
-        "chapter_id": X,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Get Fluttershy To Ask Out Pinkie",
+    "3" : {
+        "chapter_id": 4,
         "content": "chapter-202-f-a-prompt.md",
         "title_below": "Need %ld% %ld[Likes|Like]% to Get Fluttershy To Ask Out Pinkie",
         "title_exact": "Exactly Enough Likes to Decide If Get Fluttershy To Ask Out Pinkie",
@@ -96,15 +96,15 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-202-f-b-pass.md",
             "content_fail": "chapter-202-f-c-fail.md",
-            "next_event_pass": X,
-            "next_event_fail": X
+            "next_event_pass": 5,
+            "next_event_fail": 5
         }
     },
-    "X" : {
-        "chapter_id": X,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Get Pinkie To Ask Out Fluttershy",
+    "4" : {
+        "chapter_id": 4,
         "content": "chapter-202-p-a-prompt.md",
         "title_below": "Need %ld% %ld[Likes|Like]% to Get Pinkie To Ask Out Fluttershy",
         "title_exact": "Exactly Enough Likes to Get Pinkie To Ask Out Fluttershy",
@@ -122,15 +122,15 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-202-p-b-pass.md",
             "content_fail": "chapter-202-p-c-fail.md",
-            "next_event_pass": X,
-            "next_event_fail": X
+            "next_event_pass": 5,
+            "next_event_fail": 5
         }
     },
-    "2" : {
-        "chapter_id": 3,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Pull A Bull Out Of A Well",
+    "5" : {
+        "chapter_id": 5,
         "content": "chapter-002-a-prompt.md",
         "title_below": "Need %ld% %ld[Likes|Like]% to Pull A Bull Out Of A Well",
         "title_exact": "Exactly Enough Likes to Free The Bull",
@@ -148,13 +148,13 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-002-b-pass.md",
             "content_fail": "chapter-002-c-fail.md",
-            "next_event_pass": 3,
-            "next_event_fail": 3
+            "next_event_pass": 6,
+            "next_event_fail": 6
         }
     },
-    "X" : {
-        "chapter_id": X,
-        "duration": 5,
+    "6" : {
+        "chapter_id": 6,
+        "duration": 60,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Pronounce Pecan Correctly",
         "content": "chapter-102-a-prompt-scriblitstalo.md",
@@ -174,12 +174,12 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-102-b-pass-scriblitstalo.md",
             "content_fail": "chapter-102-c-fail-scriblitstalo.md",
-            "next_event_pass": X,
-            "next_event_fail": X
+            "next_event_pass": 7,
+            "next_event_fail": 7
         }
     },
-    "3" : {
-        "chapter_id": 4,
+    "7" : {
+        "chapter_id": 7,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Take Twilight's Wings Away (by RunicTreetops)",
@@ -206,15 +206,12 @@
             "content_fail_replace": {
                 "{ch-010-repl-1}": "and that was a pretty low bar! At least she'd gotten to eat."
             },
-            "next_event_pass": 4,
-            "next_event_fail": 4
+            "next_event_pass": 8,
+            "next_event_fail": 8
         }
     },
-    "4" : {
-        
-    },
-    "X" : {
-        "chapter_id": X,
+    "8" : {
+        "chapter_id": 8,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Pronounce Pecan Correctly",
@@ -235,12 +232,12 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-102-b-pass-scriblitstalo.md",
             "content_fail": "chapter-102-c-fail-scriblitstalo.md",
-            "next_event_pass": X,
-            "next_event_fail": X
+            "next_event_pass": 9,
+            "next_event_fail": 9
         }
     },
-    "X" : {
-        "chapter_id": X,
+    "9" : {
+        "chapter_id": 9,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Relocate Twilight's Castle",
@@ -261,12 +258,12 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-103-b-pass-rubyboule.md",
             "content_fail": "chapter-103-c-fail-rubyboule.md",
-            "next_event_pass": X,
-            "next_event_fail": X
+            "next_event_pass": 10,
+            "next_event_fail": 10
         }
     },
-    "5" : {
-        "chapter_id": 6,
+    "10" : {
+        "chapter_id": 10,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Tax Ourselves",
@@ -297,12 +294,12 @@
                 "{ch-005-repl-2}": "She seemed quite bitter about it.",
                 "{ch-005-repl-3}": "It didn't even happen, alright?"
             },
-            "next_event_pass": 6,
-            "next_event_fail": 6
+            "next_event_pass": 11,
+            "next_event_fail": 11
         }
     },
-    "6" : {
-        "chapter_id": 7,
+    "11" : {
+        "chapter_id": 11,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Make Twilight Shut Up",
@@ -323,12 +320,12 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-005-b-pass.md",
             "content_fail": "chapter-005-c-fail.md",
-            "next_event_pass": 7,
-            "next_event_fail": 7
+            "next_event_pass": 12,
+            "next_event_fail": 12
         }
     },
-    "X" : {
-        "chapter_id": X,
+    "12" : {
+        "chapter_id": 12,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Suspend Mail Sorting",
@@ -349,12 +346,12 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-104-b-pass-fome.md",
             "content_fail": "chapter-104-c-fail-fome.md",
-            "next_event_pass": X,
-            "next_event_fail": X
+            "next_event_pass": 13,
+            "next_event_fail": 13
         }
     },
-    "7" : {
-        "chapter_id": 8,
+    "13" : {
+        "chapter_id": 13,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Push Ponyville Three Inches To The Left",
@@ -375,12 +372,12 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-006-b-pass.md",
             "content_fail": "chapter-006-c-fail.md",
-            "next_event_pass": 8,
-            "next_event_fail": 8
+            "next_event_pass": 14,
+            "next_event_fail": 14
         }
     },
-    "X" : {
-        "chapter_id": X,
+    "14" : {
+        "chapter_id": 14,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Emancipate The Youths",
@@ -401,12 +398,12 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-105-b-pass-meteormirage.md",
             "content_fail": "chapter-105-c-fail-meteormirage.md",
-            "next_event_pass": X,
-            "next_event_fail": X
+            "next_event_pass": 15,
+            "next_event_fail": 15
         }
     },
-    "8" : {
-        "chapter_id": 9,
+    "15" : {
+        "chapter_id": 15,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Kick Anon Out Of The Hospital",
@@ -427,12 +424,12 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-007-b-pass.md",
             "content_fail": "chapter-007-c-fail.md",
-            "next_event_pass": 9,
-            "next_event_fail": 9
+            "next_event_pass": 16,
+            "next_event_fail": 16
         }
     },
-    "X" : {
-        "chapter_id": X,
+    "16" : {
+        "chapter_id": 16,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Order A Hay, Lettuce, Tomato, And Catfish Sandwich",
@@ -453,12 +450,12 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-106-b-pass-tapedeck.md",
             "content_fail": "chapter-106-c-fail-tapedeck.md",
-            "next_event_pass": X,
-            "next_event_fail": X
+            "next_event_pass": 17,
+            "next_event_fail": 17
         }
     },
-    "9" : {
-        "chapter_id": 10,
+    "17" : {
+        "chapter_id": 17,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id% - Form An Anti-Fluttershy Mob",
@@ -479,12 +476,12 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-008-b-pass.md",
             "content_fail": "chapter-008-c-fail.md",
-            "next_event_pass": 10,
-            "next_event_fail": 10
+            "next_event_pass": 18,
+            "next_event_fail": 18
         }
     },
-    "10" : {
-        "chapter_id": 11,
+    "18" : {
+        "chapter_id": 18,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id%",
@@ -505,12 +502,12 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-009-b-pass.md",
             "content_fail": "chapter-009-c-fail.md",
-            "next_event_pass": 11,
-            "next_event_fail": 11
+            "next_event_pass": 19,
+            "next_event_fail": 19
         }
     },
-    "11" : {
-        "chapter_id": 12,
+    "19" : {
+        "chapter_id": 19,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id%",
@@ -531,12 +528,12 @@
             "chapter_title": "Resolution %id%",
             "content_pass": "chapter-010-b-pass.md",
             "content_fail": "chapter-010-c-fail.md",
-            "next_event_pass": 12,
-            "next_event_fail": 12
+            "next_event_pass": 20,
+            "next_event_fail": 20
         }
     },
-    "12" : {
-        "chapter_id": 13,
+    "20" : {
+        "chapter_id": 20,
         "duration": 5,
         "like_delta": 1,
         "chapter_title": "Proposal %id%",

@@ -14,7 +14,9 @@ This feeling lasted only until a wisp of pink and yellow smoke emerged from the 
 
 "Oh, *great*," Poppyseed groaned. "She's a ghost now."
 
-"Those are, like, way harder to kill than regular ponies, you know," Sunflower commented.
+"Those are, like, way harder to get rid of than regular ponies, you know," Sunflower commented.
+
+"Sorry," Flutterghost said.
 
 "I'll bet." Poppyseed shook her head, and trotted away from the scene. "Welp, we did our best, folks. You guys are on your own."
 

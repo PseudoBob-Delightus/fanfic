@@ -2,9 +2,9 @@
 
 "Me neither!" the paper agreed.
 
-"Well, then, I know exactly what I'm going to do," Twilight said, pretending to wipe a tear from her cheek. "You know I never follow advice."
+"Well, then, I know exactly what I'm going to do," Twilight said. "You know I never follow advice."
 
-"What about advice from one of your real friends?" one of them asked.
+"What about advice from one of your *real* friends?" one of them asked.
 
 Twilight pressed them both flat on the desk. "Hay, who said that!"
 
